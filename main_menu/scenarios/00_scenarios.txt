@@ -1,0 +1,5 @@
+﻿FIR_scenario = {
+	country = FIR
+	player_playstyle = ADMINISTRATIVE
+	player_proficiency = EXPERIENCED
+}

@@ -1,0 +1,38 @@
+locations = {
+	caldera_city = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	western_airtemple = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	southern_airtemple = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	eastern_airtemple = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	northern_airtemple = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	northern_watertribe = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+}

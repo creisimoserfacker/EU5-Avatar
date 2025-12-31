@@ -1,0 +1,31 @@
+current_age = age_1_traditions
+
+countries = {
+	countries = {
+		FIR = {	#firenation
+			own_control_core = {
+				caldera_city
+				firenation firenation1 firenation2 firenation3 firenation4 firenation5 firenation6 firenation7 firenation8  firenation9  firenation10 firenation11 firenation13 firenation14 firenation15 firenation16 firenation17 firenation18 firenation19 firenation20 firenation21 firenation22 firenation23 firenation24 firenation25 firenation26 firenation27 firenation28 firenation29 firenation30 firenation31 firenation32 firenation33 firenation34 firenation35 firenation36 firenation37 firenation38 firenation39 firenation40 firenation41 firenation42 firenation43 firenation44 firenation45 firenation46 firenation47 firenation48 firenation49 firenation50 firenation51 firenation52 firenation53 firenation54 firenation55 firenation56 firenation57 firenation58 firenation59 firenation60 firenation61
+			}
+
+			starting_technology_level = 2
+			#include = "expl_western_europe"
+			#include = "catholic_monarchy_no_coast"
+			#include = "german_principality"
+			
+			discovered_regions = {
+				central_fire_island
+			}
+
+			government = {
+				type = monarchy
+				heir_selection = cognatic_primogeniture
+				ruler = hab_albrecht_ii_habsburg
+			}
+
+			country_rank = rank_duchy
+			dynasty = habsburg_dynasty
+			capital = caldera_city
+		}
+	}
+}

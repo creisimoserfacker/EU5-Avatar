@@ -1,0 +1,4 @@
+
+road_network = {
+ 	western_earthkingdom = northern_earthkingdom
+}

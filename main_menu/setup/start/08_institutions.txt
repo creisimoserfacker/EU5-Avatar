@@ -1,0 +1,28 @@
+ locations={
+
+	caldera_city = {
+		feudalism = yes
+		legalism = yes
+	}
+	western_airtemple = {
+		feudalism = yes
+		legalism = yes
+	}
+	southern_airtemple = {
+		feudalism = yes
+		legalism = yes
+	}
+	eastern_airtemple = {
+		feudalism = yes
+		legalism = yes
+	}
+	northern_airtemple = {
+		feudalism = yes
+		legalism = yes
+	}
+	northern_watertribe = {
+		feudalism = yes
+		legalism = yes
+	}
+
+}

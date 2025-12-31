@@ -1,0 +1,20 @@
+# #Remember to write sons and daughters ALWAYS after their parents to avoid crashes
+
+character_db={
+
+	FIR_sozin = {
+		first_name = { name = name_sozin }
+		nickname = { name = the_wise }
+		culture = danube_bavarian
+		religion = catholic
+		estate = nobles_estate
+		adm = 87 dip = 55 mil = 78
+		female = no
+		birth_date = 3619.8.5
+		birth = caldera_city
+		dynasty = habsburg_dynasty
+		fertility = 75
+		tag = FIR
+		ruler_trait = lawgiver
+	}
+}

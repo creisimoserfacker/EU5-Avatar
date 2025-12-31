@@ -1,0 +1,3 @@
+colors = {
+	map_firenation = rgb { 165 20 10 }
+} 

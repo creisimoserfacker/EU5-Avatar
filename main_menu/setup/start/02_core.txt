@@ -1,0 +1,16 @@
+institution_manager = {
+	institutions = {
+		feudalism = {
+			active = yes
+			birth_place = caldera_city
+		}
+		legalism = {
+			active = yes
+			birth_place = caldera_city
+		}
+		meritocracy = {
+			active = yes
+			birth_place = caldera_city
+		}
+	}
+}
