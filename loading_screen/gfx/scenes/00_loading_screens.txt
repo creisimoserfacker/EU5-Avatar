@@ -1,0 +1,248 @@
+﻿
+loading_screen_scene_water = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_earth = {
+	ecs_illustration_image = {
+		list = "loading_screen_earth_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_earth_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_earth_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_earth_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_water_3 = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_water_4 = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_water_5 = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_water_6 = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_water_7 = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}
+
+loading_screen_scene_water_8 = {
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer1"
+		pdxmesh = "layer_5_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer2"
+		pdxmesh = "layer_6_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer3"
+		pdxmesh = "layer_7_mesh"
+		name = "illustration_override_anims"
+	}
+	ecs_illustration_image = {
+		list = "loading_screen_water_layer4"
+		pdxmesh = "layer_8_mesh"
+		name = "illustration_override_anims"
+	}
+	gfx_environment_file = "gfx/illustrations/environment.txt"
+
+	camera = {
+		camera_near_far = {0.11 100000}
+		camera_fov_y_degrees = 37.5
+		camera_position = {0 -30 -75}
+		camera_look_at = {0 0 1000}
+	}
+}

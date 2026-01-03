@@ -1,0 +1,37 @@
+﻿### LOADING SCREENS IMAGES ###
+
+loading_screen_water_layer1 = {
+	illustration_image = {
+		texture_file = "gfx/loading_screen_assets/00/images/loading_screen_water_03.dds"
+		priority = 1
+		weight = 1
+	}
+	tag = "loading_screen_water_layer1"
+}
+
+loading_screen_water_layer2 = {
+	illustration_image = {
+		texture_file = "gfx/loading_screen_assets/00/images/loading_screen_water_02.dds"
+		priority = 1
+		weight = 1
+	}
+	tag = "loading_screen_water_layer2"
+}
+
+loading_screen_water_layer3 = {
+	illustration_image = {
+		texture_file = "gfx/loading_screen_assets/00/images/loading_screen_water_01.dds"
+		priority = 1
+		weight = 1
+	}
+	tag = "loading_screen_water_layer3"
+}
+
+loading_screen_water_layer4 = {
+	illustration_image = {
+		texture_file = "gfx/loading_screen_assets/00/images/loading_screen_water_00.dds"
+		priority = 1
+		weight = 1
+	}
+	tag = "loading_screen_water_layer4"
+}

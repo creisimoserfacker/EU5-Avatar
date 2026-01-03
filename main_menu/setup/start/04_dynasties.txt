@@ -1,14 +1,14 @@
 dynasty_manager = {
 
-	habsburg_dynasty = {
-		name = { name = habsburg_dynasty }
+	royal_fire_dynasty = {
+		name = { name = royal_fire_dynasty }
 		home = firenation
 		dynasty_name_type = location
 		male_names = {
-			name_albert name_frederick name_leopold name_otto name_rudolf name_vladislav
+			name_sozin name_azulon name_suko name_ozai name_iroh
 		}
 		female_names = {
-			name_anna name_catherine name_elizabeth name_margaret
+			name_azula name_ursa
 		}
 	}
 

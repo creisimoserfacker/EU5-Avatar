@@ -1,3 +1,6 @@
 colors = {
 	map_firenation = rgb { 165 20 10 }
+
+	firebender_color = rgb { 122 24 14 }
+	nonbender_color  = rgb { 210 210 210 }
 } 

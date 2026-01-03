@@ -1,0 +1,42 @@
+﻿firebender = { 
+	color = firebender_color
+	group = fire_group
+	language = fire_language
+	
+	
+	definition_modifier = {
+		
+	}
+	
+	opinions = {
+		
+	}
+
+	unique_names = {
+		
+	}	
+
+	tags = { abrahamic_gfx }
+}
+
+sun_warrior = { 
+	color = sun_warrior_color
+	group = fire_group
+	language = fire_language
+	
+	
+	definition_modifier = {
+		tolerance_heathen = 2
+	}
+	
+	opinions = {
+		
+	}
+
+	unique_names = {
+		
+	}	
+
+	tags = { abrahamic_gfx }
+}
+

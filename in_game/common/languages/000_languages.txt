@@ -1,0 +1,36 @@
+﻿
+fire_language = {
+
+	color = map_firenation
+
+	male_names = {
+		Lee Wang Wang-Lee Tui Bujing Chaejin Chaeryu Chan Chan-Lee Chey Chit-Sang Dairin Ding Druk Fat Guiri Ham-Gao Gao Gao-Lee Guri Shiro Hei-Ran Shin Shaozu Hide Hiroshi Sato Huazo Ran Jee Jeong Jinzuk Jojan Kahchi Kaja Karu Konran Koulin Kei Kuzon Kwan Loban Mak-Lee Mongke Mung Noren Ogodei Poon On-Ji Qin Quin-Lee Rangi Ruon Jian San Satoru Shinu Shoji Shuzumu Yasuko Zhen Zhu-Li Shyu Shyu-Lee Sulan Szeto Ukano Utor Vachir Yao Yeh-Lu Yon-Rah Zoryu Dock-Lee Toza Xu Bushi Ruon Jian Jian-Lee Zolt Raiko Mako
+	}
+	female_names = {
+		Elua Giya Izumi Kiyi Kori Li Lo Mai Malu Michi Ming Mura Nishi Nyahitha On-Ji Sho Ta-Min Ty-Lee Ty-Lin Lin Ty-Lat Lat Ty-Lao Lao Ty-Liu Liu Ty-Lum Lum Ty-Woo Woo Ursa
+	}
+	dynasty_names = {
+		Fire Flame Amber Ash
+	}
+	lowborn = {
+	}
+
+}
+
+common_language = {
+
+	color = nonbender_color
+
+	male_names = {
+		Aiwei Arik Baatar Baraz Bosco Bumi Bolin Cam Chio Chin Chong Chow Chung Daw Fong Fung Ganbat Gansu Ghashiun Gombo Gow Guan Gun Gwo Hark Haru Hiroshi Wenyan Wonyong Ho-Tun Hong-Li Lou-Gan How Huan Hui Jet Jianzhu Wei Juno Kai Kenji Kong Kuei Lao Lee Lek Long Lu Feng Mok Moku Oh Ohev Onku Pao Ping Pong Poi Piandao Pu-Om Quon Rhee Rin Ru Ryu Saiful Sha-Mo Sheng Shing Shu Sonjei Sud Sung Sihung Teo Than Tong Tu Tycho Tyro Wai Wei Wing Wo Won-Yee Xin-Fu Xing-Ying Xu-Ping Yashi Lu Gang
+	}
+	female_names = {
+		Ming
+	}
+	dynasty_names = {
+		Xin
+	}
+	lowborn = {
+	}
+
+}

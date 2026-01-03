@@ -5,14 +5,14 @@ character_db={
 	FIR_sozin = {
 		first_name = { name = name_sozin }
 		nickname = { name = the_wise }
-		culture = danube_bavarian
-		religion = catholic
+		culture = fire_culture
+		religion = firebender
 		estate = nobles_estate
 		adm = 87 dip = 55 mil = 78
 		female = no
 		birth_date = 3619.8.5
 		birth = caldera_city
-		dynasty = habsburg_dynasty
+		dynasty = royal_fire_dynasty
 		fertility = 75
 		tag = FIR
 		ruler_trait = lawgiver

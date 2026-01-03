@@ -10,7 +10,14 @@
 		"multiplayer_synchronized" : true,
 		"replace_paths" : [
 			"common/holy_sites",
-			"in_game/setup/countries"
+			"in_game/setup/countries",
+			"in_game/common/culture_groups",
+			"in_game/common/cultures",
+			"in_game/common/language_families",
+			"in_game/common/languages",
+			"in_game/common/religion_groups",
+			"in_game/common/religions",
+			"loading_screen/gfx/images"
 		]
 	}
 }

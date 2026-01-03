@@ -1,0 +1,5 @@
+﻿# avoid naming the same as Cultures and Languages
+
+fire_culture_group = {
+	
+}

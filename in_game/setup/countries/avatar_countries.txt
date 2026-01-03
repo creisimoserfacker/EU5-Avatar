@@ -6,8 +6,8 @@
 	unit_color1 = rgb {	165 20 10 }
 	unit_color2 = rgb {	165 20 10 }
 
-	culture_definition = danube_bavarian
-	religion_definition = catholic
+	culture_definition = fire_culture
+	religion_definition = firebender
 	
 	description_category = diplomatic
 	difficulty = 3

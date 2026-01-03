@@ -1,0 +1,21 @@
+﻿nonbender = { 
+	color = nonbender_color
+	group = nonbender_group
+	language = common_language
+	
+	
+	definition_modifier = {
+		
+	}
+	
+	opinions = {
+		
+	}
+
+	unique_names = {
+		
+	}	
+
+	tags = { abrahamic_gfx }
+}
+

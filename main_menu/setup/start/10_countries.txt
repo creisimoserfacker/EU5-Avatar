@@ -14,17 +14,17 @@ countries = {
 			#include = "german_principality"
 			
 			discovered_regions = {
-				central_fire_island
+				central_fire_island ocean_region northern_earthkingdom_region western_earthkingdom_region ba_sing_se_region northern_airtemple_region western_airtemple_region southern_earthkingdom_region earth_islands_region southern_airtemple_region eastern_airtemple_region central_earthkingdom_region omashu_region si_wong_desert_region north_pole_region south_pole_region
 			}
 
 			government = {
 				type = monarchy
 				heir_selection = cognatic_primogeniture
-				ruler = hab_albrecht_ii_habsburg
+				ruler = FIR_sozin
 			}
 
-			country_rank = rank_duchy
-			dynasty = habsburg_dynasty
+			country_rank = rank_kingdom
+			dynasty = royal_fire_dynasty
 			capital = caldera_city
 		}
 	}
