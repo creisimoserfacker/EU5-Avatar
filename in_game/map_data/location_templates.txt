@@ -1,40 +1,20 @@
 
-firenation = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
+caldera_city = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat }
+caldera_harbour = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
 
-caldera_sea = { topography = narrows climate = subtropical }
+caldera_bay = { topography = narrows climate = subtropical }
 
-black_cliff_sea = { topography = flatland_wasteland vegetation = woods climate = arctic }
 
-western_airtemple = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-southern_airtemple = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-eastern_airtemple = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-northern_airtemple = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-
-northern_watertribe = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-
-southern_watertribe = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-
-western_earthkingdom = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-
-northern_earthkingdom = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-
-earth_islands = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-ba_sing_se_area = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-central_earthkingdom = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-omashu = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-si_wong_desert = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-southern_earthkingdom = { topography = wetlands vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability=1.00 }
-
-seazone1 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone2 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone3 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone4 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone5 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone6 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone7 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone8 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone9 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone10 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone11 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone12 = { topography = flatland_wasteland vegetation = woods climate = arctic }
-seazone13 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+1 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+2 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+3 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+4 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+5 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+6 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+7 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+8 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+9 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+10 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+11 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+12 = { topography = flatland_wasteland vegetation = woods climate = arctic }
+13 = { topography = flatland_wasteland vegetation = woods climate = arctic }

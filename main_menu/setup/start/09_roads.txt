@@ -1,4 +1,4 @@
 
 road_network = {
- 	western_earthkingdom = northern_earthkingdom
+ 	4493 = 4523
 }

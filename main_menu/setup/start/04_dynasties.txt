@@ -2,7 +2,7 @@ dynasty_manager = {
 
 	royal_fire_dynasty = {
 		name = { name = royal_fire_dynasty }
-		home = firenation
+		home = caldera_harbour
 		dynasty_name_type = location
 		male_names = {
 			name_sozin name_azulon name_suko name_ozai name_iroh
