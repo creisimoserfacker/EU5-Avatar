@@ -11,6 +11,13 @@
 		"replace_paths" : [
 			"common/holy_sites",
 			"in_game/setup/countries",
+			"in_game/common/advances",
+			"in_game/common/age",
+			"in_game/common/holy_sites",
+			"in_game/common/formable_countries",
+			"in_game/common/government_reforms",
+			"in_game/common/institution",
+			"in_game/common/unit_types",
 			"in_game/common/culture_groups",
 			"in_game/common/cultures",
 			"in_game/common/language_families",
