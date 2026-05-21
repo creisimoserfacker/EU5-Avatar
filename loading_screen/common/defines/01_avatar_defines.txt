@@ -7,22 +7,25 @@
 	
 	GAME_SPEED_TICKS = {	# how many seconds should an hour take in every game speed
 		1
-		0.4
+		0.5
+		0.25
 		0.1
+		0.05
 		0.02
 		0.0
 	}
 	GAME_SPEED_SCALES = {	# Factors to scale speed
+		0.5
 		0.75
-		1
+		1.0
 		1.25
 		1.5
+		1.75
 		2.0
 	}
 	PAUSED_SPEED_SCALE = 0.15
-	HOTJOIN_TICK_LIMIT = 3
 	EVENT_MP_TIMEOUT_MONTHS = 3
-	GAME_SPEED_FOR_MULTI_PLAYERS_WARS = 2
+	GAME_SPEED_FOR_MULTI_PLAYERS_WARS = 3
 	
 	LOSE_OWNERSHIP_ON_EMPTY_LOCATION = no
 }

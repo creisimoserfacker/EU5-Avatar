@@ -4,7 +4,7 @@ countries = {
 	countries = {
 		FIR = {	#firenation
 			own_control_core = {
-				caldera_harbour caldera_city
+				caldera_harbour caldera_path caldera_city caldera_city_1
 			}
 
 			starting_technology_level = 2
