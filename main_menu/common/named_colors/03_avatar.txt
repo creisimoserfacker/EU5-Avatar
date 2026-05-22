@@ -2,5 +2,12 @@ colors = {
 	map_firenation = rgb { 165 20 10 }
 
 	firebender_color = rgb { 122 24 14 }
-	nonbender_color  = rgb { 210 210 210 }
+	nonbender_color = rgb { 210 210 210 }
+
+
+	goods_ostrich_horses = rgb { 69 189 112 }
+	goods_komodo_rhinos = rgb { 179 79 112 }
+	goods_flour = rgb { 10 10 10 }
+	goods_pastry = rgb { 169 129 20 }
+	goods_ice = rgb { 10 10 160 }
 } 

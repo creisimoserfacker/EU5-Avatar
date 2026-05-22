@@ -9267,14 +9267,11 @@ fire_islands = {
 	main_island = {	
 		central_fire_island = {
 			caldera_area = {
-				caldera_province = {
-					caldera_harbour
-					caldera_path
-					caldera_city
-					caldera_city_1
+				caldera_city_province = {
+					caldera_city_1 caldera_city_2 caldera_city_3 caldera_city_4 caldera_city_5 caldera_city_6 caldera_city_7 caldera_city_8 caldera_city_9 caldera_city_10 caldera_city_11 caldera_volcano
 				}
-				fire_provinces = {
-					
+				caldera_harbour_province = {
+					caldera_harbour_1 caldera_harbour_2 caldera_harbour_3 caldera_harbour_4 caldera_harbour_5 caldera_harbour_6
 				}
 			}
 

@@ -1,4 +1,6 @@
 
 road_network = {
- 	4493 = 4523
+ 	caldera_harbour_1 = caldera_harbour_2
+ 	caldera_harbour_2 = caldera_city_2
+ 	caldera_city_2 = caldera_city_1
 }

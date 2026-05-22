@@ -168,6 +168,26 @@ beer = { 		#the nectar of the gods
 	}
 }
 
+tea = { 
+	category = produced
+	color = goods_tea
+	default_market_price = 2
+	
+	demand_add = {
+		all = 0.0016
+	}	
+	
+	demand_multiply = {
+		upper = 5
+		nobles = 2
+		slaves = 0
+	}	
+	
+	wealth_impact_threshold = {
+		all = 0.25
+	}
+}
+
 
 paper = {		#Paper
 	category = produced
@@ -184,6 +204,24 @@ paper = {		#Paper
 	
 	wealth_impact_threshold = {
 		all = 1.2
+	}
+}
+
+scrolls = { #scrolls
+	category = produced
+	color = goods_scrolls
+	default_market_price = 5
+	
+	demand_add = {
+		nobles = 0.01
+		burghers = 0.02
+		clergy = 0.04
+	}	
+	
+	development_threshold = 25
+	
+	wealth_impact_threshold = {
+		all = 1.1
 	}
 }
 
@@ -319,4 +357,40 @@ furniture  = {
 		all = 1.0
 	}
 	
+}
+
+flour = { 
+	category = produced
+	color = goods_flour
+	default_market_price = 1
+	
+	demand_add = {
+		all = 0.0004
+	}	
+	
+	demand_multiply = {
+		
+	}	
+	
+	wealth_impact_threshold = {
+		all = 1.0
+	}
+}
+
+pastry = { 
+	category = produced
+	color = goods_pastry
+	default_market_price = 1
+	
+	demand_add = {
+		all = 0.0004
+	}	
+	
+	demand_multiply = {
+		
+	}	
+	
+	wealth_impact_threshold = {
+		all = 1.0
+	}
 }

@@ -1,0 +1,10 @@
+﻿#Usages:
+# weak: common, should usually be combined with another weak
+# mild: common, stand-alone
+# severe: rare
+# extreme: very rare, event has to have a massive impact and must be rather rare / unique
+# ultimate: legendarily rare, should only be used for impressive feats or massive failures only
+# radical: rarest value you could get
+
+
+wall_of_ba_sing_se = 					3.0

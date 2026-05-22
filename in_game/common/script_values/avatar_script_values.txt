@@ -1,0 +1,7 @@
+﻿wall_of_ba_sing_se_max_level = {
+	add = {
+		desc = "BUILDING_LEVEL_BASE"
+		value = 1
+	}
+		
+}

@@ -1,18 +1,28 @@
 ﻿
-horses = { #War Horses
+ostrich_horses = { #War Horses
 	method = farming
 	category = raw_material
-	color = goods_horses
+	color = goods_ostrich_horses
 	default_market_price = 3
 	transport_cost = 2
 	
 	demand_add = {
 		nobles =  0.25
-	}	
-
-	custom_tags = { old_world_goods }
-
+	}
 }
+
+komodo_rhinos = { #War Horses
+	method = farming
+	category = raw_material
+	color = goods_komodo_rhinos
+	default_market_price = 3
+	transport_cost = 2
+	
+	demand_add = {
+		nobles =  0.25
+	}
+}
+
 
 clay = {
 	method = gathering
@@ -176,7 +186,7 @@ incense = {
 
 }
 
-tea = {
+tea_herbs = {
 	method = farming
 	category = raw_material
 	color = goods_tea
@@ -291,6 +301,17 @@ salt = {
 	demand_add = {
 		nobles = 0.05
 		burghers = 0.004
+	}
+}
+
+ice = {
+	method = gathering
+	category = raw_material
+	color = goods_ice
+	default_market_price = 3
+	
+	demand_add = {
+		
 	}
 }
 
@@ -412,22 +433,6 @@ wine = {
 		tribesmen = 0
 	}
 	custom_tags = { old_world_goods }
-}
-
-elephants = {
-	method = farming
-	category = raw_material
-	color = goods_elephants
-	default_market_price = 10
-	transport_cost = 5
-	
-	demand_add = {
-		nobles =  0.1
-	}	
-	
-	wealth_impact_threshold = {
-		nobles = 2
-	}
 }
 
 marble = {

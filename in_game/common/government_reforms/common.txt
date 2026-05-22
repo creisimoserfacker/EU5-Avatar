@@ -359,7 +359,7 @@ patrimonialism = {#https://en.wikipedia.org/wiki/Patrimonialism
 	years = 2
 }
 
-age 1 + 2 / 8
+#age 1 + 2 / 8
 enforce_religious_adherence = {
 	age = age_1_harmony
 

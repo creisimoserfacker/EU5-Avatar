@@ -47,7 +47,7 @@ lakes = {
 # Blocks unit movement.
 
 impassable_mountains = {
-	
+	caldera_volcano
 }
 
 non_ownable = {
