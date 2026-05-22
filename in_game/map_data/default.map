@@ -13,6 +13,8 @@ wrap_x = yes
 # VOLCANOES
 #############
 volcanoes = {
+	northern_dragon_range_volcano
+	southern_dragon_range_volcano
 }
 
 ###################################
@@ -26,7 +28,7 @@ earthquakes = {
 #############
 # European Seas
 sea_zones = { 
-	caldera_bay
+	caldera_bay 4234 4420 4270 4129 4007 3978 3609 3627 3614 3750 3831 3938 3812 3926 3989 4084 3999 3982 3920 3760 3595 3527 3470 3440 3487 3432 3514 3801
 } 
 
 ###############
@@ -48,6 +50,8 @@ lakes = {
 
 impassable_mountains = {
 	caldera_volcano
+	northern_dragon_range_volcano
+	southern_dragon_range_volcano
 }
 
 non_ownable = {

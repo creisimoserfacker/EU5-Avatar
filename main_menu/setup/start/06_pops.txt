@@ -5,4 +5,118 @@ locations = {
 		define_pop = {	type = burghers	size = 1.776	culture = fire_culture	religion = nonbender }
 		define_pop = {	type = peasants	size = 35.598	culture = fire_culture	religion = nonbender }
     }
+    north_caldera_3 = {
+    }
+    north_caldera_2 = {
+    }
+    north_caldera_1 = {
+    }
+    ashfield_town_4 = {
+    }
+    ashfields_2 = {
+    }
+    ashfields_7 = {
+    }
+    ashfields_6 = {
+    }
+    ashfields_1 = {
+    }
+    dragonfield_field_5 = {
+    }
+    dragonfield_field_1 = {
+    }
+    dragonfield_field_2 = {
+    }
+    dragonfield_field_3 = {
+    }
+    dragonfield_field_7 = {
+    }
+    dragonfield_town_2 = {
+    }
+    dragonfield_town_3 = {
+    }
+    dragonfield_field_6 = {
+    }
+    dragonfield_field_4 = {
+    }
+    dragonfield_town_1 = {
+    }
+    north_caldera_5 = {
+    }
+    north_caldera_4 = {
+    }
+    west_kirachu_island_1 = {
+    }
+    west_kirachu_island_2 = {
+    }
+    west_kirachu_island_3 = {
+    }
+    west_kirachu_island_5 = {
+    }
+    west_kirachu_island_4 = {
+    }
+    east_kirachu_island_1 = {
+    }
+    east_kirachu_island_2 = {
+    }
+    east_kirachu_island_4 = {
+    }
+    east_kirachu_island_3 = {
+    }
+    west_kirachu_island_6 = {
+    }
+    east_kirachu_island_5 = {
+    }
+    dragontooth_town_4 = {
+    }
+    dragontooth_town_5 = {
+    }
+    dragontooth_town_6 = {
+    }
+    red_approaches_7 = {
+    }
+    red_approaches_5 = {
+    }
+    red_approaches_6 = {
+    }
+    red_approaches_1 = {
+    }
+    red_approaches_2 = {
+    }
+    red_approaches_4 = {
+    }
+    red_approaches_3 = {
+    }
+    dragontooth_town_2 = {
+    }
+    ashfield_town_6 = {
+    }
+    ashfields_4 = {
+    }
+    ashfields_3 = {
+    }
+    ashfield_town_5 = {
+    }
+    ashfields_5 = {
+    }
+    dragonrange_path_5 = {
+    }
+    dragonrange_path_3 = {
+    }
+    dragonrange_path_1 = {
+    }
+    dragonrange_path_2 = {
+    }
+    dragonrange_path_4 = {
+    }
+    dragonrange_path_6 = {
+    }
+    dragonfield_town_5 = {
+    }
+    dragonfield_town_4 = {
+    }
+    ashfield_town_1 = {
+    }
+    dragontooth_town_3 = {
+    }
 }

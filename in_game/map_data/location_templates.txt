@@ -1,4 +1,4 @@
-2 = {}
+﻿2 = {}
 3 = {}
 4 = {}
 5 = {}
@@ -321,7 +321,7 @@
 322 = {}
 323 = {}
 324 = { topography = ocean}
-325 = { topography = mountain_wasteland vegetation = sparse}
+325 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 326 = { topography = ocean}
 327 = {}
 328 = {}
@@ -569,7 +569,7 @@
 570 = { topography = ocean}
 571 = { topography = ocean}
 572 = { topography = ocean}
-573 = { topography = mountain_wasteland}
+573 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 574 = { topography = ocean}
 575 = { topography = ocean}
 576 = { topography = ocean}
@@ -2506,7 +2506,7 @@
 2509 = {}
 2510 = { topography = mountains}
 2511 = { topography = mountains}
-2512 = { topography = mountain_wasteland}
+2512 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 2513 = { topography = ocean}
 2514 = {}
 2515 = {}
@@ -3023,7 +3023,7 @@
 3026 = {}
 3027 = { topography = flatland}
 3028 = { topography = flatland}
-3029 = { topography = mountain_wasteland}
+3029 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 3030 = {}
 3031 = { topography = flatland}
 3032 = {}
@@ -3048,7 +3048,7 @@
 3051 = {}
 3052 = { topography = flatland}
 3053 = {}
-3054 = { topography = mountain_wasteland vegetation = sparse}
+3054 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 3055 = {}
 3056 = {}
 3057 = {}
@@ -3187,7 +3187,7 @@
 3190 = {}
 3191 = {}
 3192 = {}
-3193 = { topography = mountain_wasteland vegetation = sparse}
+3193 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 3194 = { topography = flatland}
 3195 = { topography = flatland}
 3196 = { topography = hills}
@@ -3381,7 +3381,7 @@
 3384 = { topography = hills vegetation = grasslands}
 3385 = { topography = deep_ocean}
 3386 = { topography = flatland}
-3387 = { topography = mountain_wasteland}
+3387 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 3388 = { topography = hills}
 3389 = { topography = coastal_ocean}
 3390 = { topography = ocean}
@@ -3426,7 +3426,7 @@
 3429 = {}
 3430 = { topography = hills}
 3431 = {}
-3432 = { topography = coastal_ocean}
+3432 = { topography = coastal_ocean climate = subtropical }
 3433 = {}
 3434 = {}
 3435 = { topography = flatland vegetation = farmland}
@@ -3434,7 +3434,7 @@
 3437 = { topography = hills}
 3438 = {}
 3439 = {}
-3440 = { topography = coastal_ocean}
+3440 = { topography = coastal_ocean climate = subtropical }
 3441 = {}
 3442 = {}
 3443 = {}
@@ -3464,7 +3464,7 @@
 3467 = { topography = flatland vegetation = grasslands}
 3468 = {}
 3469 = { topography = flatland}
-3470 = { topography = coastal_ocean}
+3470 = { topography = coastal_ocean climate = subtropical }
 3471 = {}
 3472 = {}
 3473 = {}
@@ -3481,7 +3481,7 @@
 3484 = {}
 3485 = { topography = flatland}
 3486 = { topography = deep_ocean}
-3487 = { topography = coastal_ocean}
+3487 = { topography = coastal_ocean climate = subtropical }
 3488 = { topography = coastal_ocean}
 3489 = { topography = hills}
 3490 = { topography = mountains}
@@ -3508,7 +3508,7 @@
 3511 = {}
 3512 = { topography = mountains}
 3513 = { topography = coastal_ocean}
-3514 = { topography = coastal_ocean}
+3514 = { topography = coastal_ocean climate = subtropical }
 3515 = { topography = hills}
 3516 = {}
 3517 = { topography = deep_ocean}
@@ -3521,7 +3521,7 @@
 3524 = { topography = hills}
 3525 = { topography = coastal_ocean}
 3526 = { topography = mountains}
-3527 = { topography = coastal_ocean}
+3527 = { topography = coastal_ocean climate = subtropical }
 3528 = {}
 3529 = { topography = deep_ocean}
 3530 = { topography = flatland}
@@ -3561,7 +3561,7 @@
 3564 = { topography = mountains vegetation = grasslands}
 3565 = { topography = mountains}
 3566 = { topography = flatland}
-3567 = { topography = mountain_wasteland}
+3567 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 3568 = { topography = coastal_ocean}
 3569 = {}
 3570 = {}
@@ -3589,7 +3589,7 @@
 3592 = { topography = mountains vegetation = sparse}
 3593 = { topography = flatland}
 3594 = { topography = hills vegetation = grasslands}
-3595 = { topography = coastal_ocean}
+3595 = { topography = coastal_ocean climate = subtropical }
 3596 = {}
 3597 = { topography = flatland}
 3598 = { topography = mountains vegetation = grasslands}
@@ -3603,12 +3603,12 @@
 3606 = { topography = flatland vegetation = farmland}
 3607 = { topography = coastal_ocean}
 3608 = {}
-3609 = { topography = ocean}
+3609 = { topography = ocean climate = subtropical }
 3610 = {}
 3611 = {}
 3612 = { topography = ocean}
 3613 = { topography = coastal_ocean}
-3614 = { topography = ocean}
+3614 = { topography = ocean climate = subtropical }
 3615 = { topography = hills}
 3616 = { topography = coastal_ocean}
 3617 = {}
@@ -3621,7 +3621,7 @@
 3624 = { topography = mountains}
 3625 = { topography = hills}
 3626 = { topography = mountains}
-3627 = { topography = ocean}
+3627 = { topography = ocean climate = subtropical }
 3628 = {}
 3629 = {}
 3630 = {}
@@ -3741,7 +3741,7 @@
 3747 = { topography = mountains}
 3748 = {}
 3749 = {}
-3750 = { topography = ocean}
+3750 = { topography = ocean climate = subtropical }
 3751 = { topography = deep_ocean}
 3752 = {}
 3753 = { topography = mountains}
@@ -3751,7 +3751,7 @@
 3757 = { topography = hills}
 3758 = {}
 3759 = { topography = ocean_wasteland}
-3760 = { topography = coastal_ocean}
+3760 = { topography = coastal_ocean climate = subtropical }
 3761 = {}
 3762 = {}
 3763 = { topography = coastal_ocean}
@@ -3789,7 +3789,7 @@
 3798 = { topography = hills}
 3799 = { topography = hills}
 3800 = { topography = mountains vegetation = sparse}
-3801 = { topography = coastal_ocean}
+3801 = { topography = coastal_ocean climate = subtropical }
 3802 = {}
 3803 = {}
 3804 = {}
@@ -3800,7 +3800,7 @@
 3809 = {}
 3810 = {}
 3811 = { topography = ocean}
-3812 = { topography = ocean}
+3812 = { topography = ocean climate = subtropical }
 3813 = {}
 3815 = { topography = hills}
 3816 = {}
@@ -3817,7 +3817,7 @@
 3828 = {}
 3829 = {}
 3830 = {}
-3831 = { topography = ocean}
+3831 = { topography = ocean climate = subtropical }
 3832 = { topography = ocean}
 3833 = {}
 3834 = {}
@@ -3900,13 +3900,13 @@
 3917 = { topography = hills}
 3918 = {}
 3919 = {}
-3920 = { topography = coastal_ocean}
+3920 = { topography = coastal_ocean climate = subtropical }
 3921 = { topography = coastal_ocean}
 3922 = {}
 3923 = {}
 3924 = { topography = flatland}
 3925 = {}
-3926 = { topography = coastal_ocean}
+3926 = { topography = coastal_ocean climate = subtropical }
 3927 = {}
 3928 = { topography = ocean}
 3929 = { topography = ocean}
@@ -3918,7 +3918,7 @@
 3935 = { topography = flatland vegetation = farmland}
 3936 = { topography = coastal_ocean}
 3937 = { topography = flatland vegetation = farmland}
-3938 = { topography = ocean}
+3938 = { topography = ocean climate = subtropical }
 3939 = { topography = mountains vegetation = sparse}
 3940 = {}
 3941 = { topography = coastal_ocean}
@@ -3958,18 +3958,18 @@
 3975 = { topography = hills}
 3976 = { topography = hills}
 3977 = { topography = flatland}
-3978 = { topography = narrows}
+3978 = { topography = narrows climate = subtropical }
 3979 = {}
 3980 = {}
 3981 = {}
-3982 = { topography = coastal_ocean}
+3982 = { topography = coastal_ocean climate = subtropical }
 3983 = { topography = hills}
 3984 = {}
 3985 = {}
 3986 = { topography = hills}
 3987 = {}
 3988 = { topography = deep_ocean}
-3989 = { topography = coastal_ocean}
+3989 = { topography = coastal_ocean climate = subtropical }
 3990 = {}
 3991 = { topography = coastal_ocean}
 3992 = { topography = flatland}
@@ -3979,7 +3979,7 @@
 3996 = {}
 3997 = { topography = hills vegetation = grasslands}
 3998 = {}
-3999 = { topography = coastal_ocean}
+3999 = { topography = coastal_ocean climate = subtropical }
 4000 = { topography = ocean}
 4001 = { topography = coastal_ocean}
 4002 = {}
@@ -3987,7 +3987,7 @@
 4004 = {}
 4005 = { topography = hills vegetation = farmland raw_material = wheat}
 4006 = { topography = flatland}
-4007 = { topography = narrows}
+4007 = { topography = narrows climate = subtropical }
 4008 = {}
 4009 = {}
 4010 = {}
@@ -4064,7 +4064,7 @@
 4081 = {}
 4082 = {}
 4083 = { topography = flatland vegetation = forest}
-4084 = { topography = coastal_ocean}
+4084 = { topography = coastal_ocean climate = subtropical }
 4085 = { topography = coastal_ocean}
 4086 = {}
 4087 = { topography = flatland vegetation = forest}
@@ -4109,7 +4109,7 @@
 4126 = {}
 4127 = {}
 4128 = {}
-4129 = { topography = narrows}
+4129 = { topography = narrows climate = subtropical }
 4130 = { topography = mountains}
 4131 = {}
 4132 = {}
@@ -4212,9 +4212,9 @@
 4229 = { topography = deep_ocean}
 4230 = { topography = mountains}
 4231 = { topography = flatland vegetation = woods}
-4232 = { topography = mountain_wasteland vegetation = sparse}
+4232 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 4233 = { topography = flatland}
-4234 = { topography = narrows}
+4234 = { topography = narrows climate = subtropical }
 4235 = { topography = hills}
 4236 = {}
 4237 = { topography = ocean}
@@ -4250,9 +4250,9 @@
 4267 = {}
 4268 = {}
 4269 = {}
-4270 = { topography = narrows}
+4270 = { topography = narrows climate = subtropical }
 4271 = { topography = hills}
-4272 = { topography = mountain_wasteland}
+4272 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 4273 = {}
 4274 = { topography = flatland}
 4275 = {}
@@ -4374,7 +4374,7 @@
 4391 = { topography = mountains}
 4392 = {}
 4393 = { topography = flatland vegetation = farmland}
-4394 = { topography = mountain_wasteland vegetation = sparse}
+northern_dragon_range_volcano = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 4395 = {}
 4396 = {}
 4397 = {}
@@ -4400,7 +4400,7 @@
 4417 = { topography = mountains}
 4418 = { topography = coastal_ocean}
 4419 = { topography = mountains}
-4420 = { topography = narrows}
+4420 = { topography = narrows climate = subtropical }
 4421 = {}
 4422 = {}
 4423 = {}
@@ -4411,7 +4411,7 @@
 4428 = {}
 4429 = {}
 4430 = { topography = narrows}
-4431 = { topography = mountain_wasteland vegetation = sparse}
+4431 = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 4432 = { topography = flatland}
 4433 = {}
 4434 = {}
@@ -4429,7 +4429,7 @@
 4446 = {}
 4447 = { topography = hills}
 4448 = { topography = hills}
-4449 = { topography = flatland}
+dragontooth_town_1 = { topography = flatland vegetation = farmland}
 4450 = { topography = hills}
 4451 = {}
 4452 = {}
@@ -9121,11 +9121,69 @@ caldera_city_8 = { topography = flatland vegetation = grasslands climate = subtr
 caldera_city_9 = { topography = flatland vegetation = grasslands climate = subtropical}
 caldera_city_10 = { topography = flatland vegetation = grasslands climate = subtropical}
 caldera_city_11 = { topography = flatland vegetation = grasslands climate = subtropical}
-caldera_volcano = {}
+caldera_volcano = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
 caldera_harbour_1 = { topography = flatland vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = wheat natural_harbor_suitability = 0.00}
 caldera_harbour_2 = { topography = plateau vegetation = grasslands climate = subtropical religion = firebender culture = fire_culture raw_material = clay natural_harbor_suitability = 0.00}
 caldera_harbour_3 = { topography = hills vegetation = grasslands climate = subtropical}
 caldera_harbour_4 = { topography = flatland vegetation = grasslands climate = subtropical}
 caldera_harbour_5 = { topography = hills vegetation = grasslands climate = subtropical}
 caldera_harbour_6 = { topography = flatland vegetation = grasslands climate = subtropical}
-caldera_bay = { topography = coastal_ocean climate = subtropical}
+caldera_bay = { topography = coastal_ocean climate = subtropical }
+north_caldera_3 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+north_caldera_2 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+north_caldera_1 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfield_town_4 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_2 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_7 = { topography = flatland vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_6 = { topography = hills vegetation = grasslands climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_1 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_field_5 = { topography = hills vegetation = grasslands climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_field_1 = { topography = hills vegetation = grasslands climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_field_2 = { topography = hills vegetation = grasslands climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_field_3 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_field_7 = { topography = hills vegetation = grasslands climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_town_2 = { topography = hills vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = wheat natural_harbor_suitability = 0 }
+dragonfield_town_3 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = wheat natural_harbor_suitability = 0 }
+dragonfield_field_6 = { topography = hills vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_field_4 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_town_1 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = wheat natural_harbor_suitability = 0 }
+north_caldera_5 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = wheat natural_harbor_suitability = 0 }
+north_caldera_4 = { topography = hills vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = wheat natural_harbor_suitability = 0 }
+west_kirachu_island_1 = { topography = flatland vegetation = woods climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+west_kirachu_island_2 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+west_kirachu_island_3 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+west_kirachu_island_5 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+west_kirachu_island_4 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+east_kirachu_island_1 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+east_kirachu_island_2 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+east_kirachu_island_4 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+east_kirachu_island_3 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+west_kirachu_island_6 = { topography = flatland vegetation = forest climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+east_kirachu_island_5 = { topography = flatland vegetation = woods climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragontooth_town_4 = { topography = flatland vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragontooth_town_5 = { topography = flatland vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragontooth_town_6 = { topography = flatland vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_7 = { topography = hills vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_5 = { topography = hills vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_6 = { topography = mountains vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_1 = { topography = mountains vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_2 = { topography = mountains vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_4 = { topography = hills vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+red_approaches_3 = { topography = hills vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragontooth_town_2 = { topography = flatland vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfield_town_6 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_4 = { topography = mountains vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_3 = { topography = hills vegetation = desert climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfield_town_5 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfields_5 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonrange_path_5 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonrange_path_3 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonrange_path_1 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonrange_path_2 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonrange_path_4 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonrange_path_6 = { topography = mountains vegetation = sparse climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_town_5 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragonfield_town_4 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfield_town_1 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+dragontooth_town_3 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture raw_material = horses natural_harbor_suitability = 0 }
+ashfield_town_3 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture }ashfield_town_2 = { topography = flatland vegetation = farmland climate = subtropical religion = nonbender culture = fire_culture }southern_dragon_range_volcano = { topography = mountain_wasteland vegetation = sparse climate = subtropical }
