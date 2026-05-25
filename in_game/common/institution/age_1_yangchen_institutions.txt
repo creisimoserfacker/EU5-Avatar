@@ -1,9 +1,7 @@
-﻿feudalism = {
-	age = age_1_traditions 
-	
+﻿agricultural_revolution = {
+	age = age_1_yangchen 
 	
 	can_spawn = {
-		continent = continent:europe
 		has_owner = yes
 		num_pop_type:nobles > 0.1
 	}
@@ -32,12 +30,10 @@
 	
 }
 
-legalism = {
-	age = age_1_traditions 
-	
+wind_power = {
+	age = age_1_yangchen 
 	
 	can_spawn = {
-		continent = continent:europe
 		has_owner = yes
 		num_pop_type:nobles > 0
 	}
@@ -60,12 +56,10 @@ legalism = {
 
 }
 
-meritocracy = {
-	age = age_1_traditions 
-	
+trade = {
+	age = age_1_yangchen 
 	
 	can_spawn = {
-		continent = continent:asia
 		has_owner = yes
 		owner ?= { root = capital }
 		OR = {

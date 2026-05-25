@@ -1,4 +1,4 @@
-﻿age_1_harmony = {
+﻿age_1_yangchen = {
 	year = 1
 	price_stability = 0.1
 	max_price = 3
@@ -35,8 +35,8 @@
 	}
 	
 }
-age_2_strife = {
-	year = 3664		#38 years
+age_2_kuruk = {
+	year = 3350  #3355 to be exact with births
 	price_stability = 0.1
 	max_price = 3
 	
@@ -79,8 +79,8 @@ age_2_strife = {
 		cossacks_estate = 1
 	}
 }
-age_3_fire = {
-	year = 3701		#49 years
+age_3_kyoshi = {
+	year = 3400    #3388 to be exact
 	price_stability = 0.08
 	max_price = 4
 	hegemons_allowed = yes
@@ -127,8 +127,8 @@ age_3_fire = {
 		cossacks_estate = 1
 	}
 }
-age_4_lost_avatar = {
-	year = 3570		#49 years
+age_4_roku = {
+	year = 3620   #3618 to be exact
 	price_stability = 0.06
 	max_price = 5
 	hegemons_allowed = yes
@@ -176,8 +176,8 @@ age_4_lost_avatar = {
 
 
 }
-age_5_last_airbender = {
-	year = 3799		#54 years
+age_5_lost_avatar = {
+	year = 3700
 	price_stability = 0.04
 	max_price = 5
 	hegemons_allowed = yes
@@ -235,8 +235,8 @@ age_5_last_airbender = {
 
 
 }
-age_6_rebirth = {
-	year = 3853		#25 years
+age_6_last_airbender = {
+	year = 3800
 	price_stability = 0.02
 	max_price = 5
 	hegemons_allowed = yes

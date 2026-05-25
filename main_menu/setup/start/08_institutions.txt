@@ -1,8 +1,8 @@
  locations={
 
-	caldera_city = {
-		feudalism = yes
-		legalism = yes
+	caldera_city_1 = {
+		agricultural_revolution = yes
+		trade = yes
 	}
 
 }

@@ -1,275 +1,4 @@
 ﻿
-ostrich_horses = { #War Horses
-	method = farming
-	category = raw_material
-	color = goods_ostrich_horses
-	default_market_price = 3
-	transport_cost = 2
-	
-	demand_add = {
-		nobles =  0.25
-	}
-}
-
-komodo_rhinos = { #War Horses
-	method = farming
-	category = raw_material
-	color = goods_komodo_rhinos
-	default_market_price = 3
-	transport_cost = 2
-	
-	demand_add = {
-		nobles =  0.25
-	}
-}
-
-
-clay = {
-	method = gathering
-	category = raw_material
-	color = goods_clay
-	default_market_price = 0.5
-	
-	base_production = 0.4
-	
-	ai_rgo_expansion_priority = 0.025
-}
-
-sand = {
-	method = gathering
-	category = raw_material
-	color = goods_sand
-	default_market_price = 0.5
-	
-	base_production = 0.2
-}
-
-coal = {
-	method = mining
-	category = raw_material
-	color = goods_coal
-	default_market_price = 2
-	transport_cost = 2
-	
-	
-	demand_add = {
-		all = 0.0004
-	}
-	
-	demand_multiply = {
-		upper = 2.5
-	}	
-	
-}
-
-iron = {
-	method = mining
-	category = raw_material
-	color = goods_iron
-	default_market_price = 3
-	transport_cost = 1
-	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
-	
-	ai_rgo_expansion_priority = 0.025
-}
-
-copper = {
-	method = mining
-	category = raw_material
-	color = goods_copper
-	default_market_price = 3
-	transport_cost = 2
-}
-
-goods_gold = {
-	method = mining
-	category = raw_material
-	color = goods_gold
-	default_market_price = 10
-
-	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
-	inflation = yes
-	
-	ai_rgo_expansion_priority = 0.2
-	
-	demand_add = {
-		nobles = 0.025
-	}	
-	
-	wealth_impact_threshold = {
-		all = 1.05
-	}
-
-}
-
-silver = {
-	method = mining
-	category = raw_material
-	color = goods_silver
-	default_market_price = 8
-	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
-	inflation = yes
-	
-	ai_rgo_expansion_priority = 0.2
-	
-	demand_add = {
-		nobles = 0.025
-	}
-	
-
-	
-	wealth_impact_threshold = {
-		all = 1.05
-	}
-
-}
-
-stone = {
-	method = mining
-	category = raw_material
-	color = goods_stone
-	default_market_price = 1
-	base_production = 0.2
-	transport_cost = 5
-	
-	ai_rgo_expansion_priority = 0.025
-}
-
-tin = {
-	method = mining
-	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
-
-}
-
-lead = {
-	method = mining
-	category = raw_material
-	color = goods_lead
-	default_market_price = 2
-	transport_cost = 2
-
-}
-
-silk = {
-	method = farming
-	category = raw_material
-	color = goods_silk
-	default_market_price = 4
-}
-
-dyes = {
-	method = farming
-	category = raw_material
-	color = goods_dyes
-	default_market_price = 4
-	transport_cost = 0.5
-}
-
-incense = {
-	method = farming
-	category = raw_material
-	color = goods_incense
-	default_market_price = 2.5
-	transport_cost = 0.5
-	
-	demand_add = {
-		clergy = 0.01
-	}	
-	
-	
-	wealth_impact_threshold = {
-		all = 0.5
-	}
-
-}
-
-tea_herbs = {
-	method = farming
-	category = raw_material
-	color = goods_tea
-	default_market_price = 3
-	
-	demand_add = {
-		nobles = 0.2
-		burghers = 0.01
-		clergy = 0.01
-	}
-		
-	wealth_impact_threshold = {
-		all = 0.75
-	}
-
-}
-
-
-cocoa = {
-	method = farming
-	category = raw_material
-	color = goods_cocoa
-	default_market_price = 4
-	demand_add = {
-		nobles = 0.1
-		burghers = 0.01
-		clergy = 0.01
-	}
-	
-	wealth_impact_threshold = {
-		all = 0.75
-	}
-	
-	custom_tags = { new_world_goods }
-}
-
-
-coffee = {
-	method = farming
-	category = raw_material
-	color = goods_coffee
-	default_market_price = 3
-	
-	demand_add = {
-		nobles = 0.01
-		burghers = 0.001
-		clergy = 0.0005
-		soldiers = 0.001
-	}
-	
-	wealth_impact_threshold = {
-		all = 0.75
-	}
-
-	custom_tags = { old_world_goods }
-}
-
-fiber_crops = {
-	method = farming
-	category = raw_material
-	color = goods_fiber_crops
-	default_market_price = 2
-}
-
-ivory = {
-	method = hunting
-	category = raw_material
-	color = goods_ivory
-	default_market_price = 4
-	
-	demand_add = {
-		nobles = 0.05
-	}
-	
-	development_threshold = 20
-	
-	wealth_impact_threshold = {
-		all = 1.1
-	}
-}
-
-
-
 lumber  = {
 	method = forestry
 	category = raw_material
@@ -284,7 +13,6 @@ lumber  = {
 		all = 0.00025
 	}
 	
-
 	
 	demand_multiply = {
 		upper = 5
@@ -292,53 +20,240 @@ lumber  = {
 
 }
 
+clay = {
+	method = gathering
+	category = raw_material
+	color = goods_clay
+	default_market_price = 0.5
+	
+	transport_cost = 2
+
+	base_production = 0.02	
+	
+	ai_rgo_expansion_priority = 0.025
+}
+
+sand = {
+	method = gathering
+	category = raw_material
+	color = goods_sand
+	default_market_price = 0.5
+	
+	transport_cost = 2
+
+	base_production = 0.01
+}
+
+stone = {
+	method = mining
+	category = raw_material
+	color = goods_stone
+	default_market_price = 1
+	base_production = 0.012
+	transport_cost = 2
+	
+	ai_rgo_expansion_priority = 0.025
+	
+}
+
+marble = {
+	method = mining
+	category = raw_material
+	color = goods_marble
+	default_market_price = 5
+	
+	transport_cost = 3
+
+	
+	demand_add = {
+		nobles = 0.05
+	}	
+	
+	development_threshold = 40
+	wealth_impact_threshold = {
+		nobles = 1.5
+	}
+}
+
+ice = {
+	method = mining
+	category = raw_material
+	color = goods_ice
+	default_market_price = 1
+	transport_cost = 3
+	
+	ai_rgo_expansion_priority = 0.025
+	
+	climate_demand_modifier = {
+		subtropical = 1.4
+		tropical = 2
+		mediterranean = 1.2
+		arctic = 0.2
+		cold_arid = 0.5
+	}
+
+	no_demand_if_no_market_availability = yes
+}
+
+water = {
+	method = gathering
+	category = raw_material
+	color = goods_water
+	default_market_price = 1
+	base_production = 0.02
+	transport_cost = 3
+	
+	ai_rgo_expansion_priority = 0.025
+	ai_rgo_size_importance = 3 # ai preference to avoid building a city on this rgo
+
+	climate_demand_modifier = {
+		subtropical = 1.4
+		tropical = 2
+		mediterranean = 1.2
+		arctic = 0.2
+		cold_arid = 0.5
+	}
+}
+
+coal = {
+	method = mining
+	category = raw_material
+	color = goods_coal
+	default_market_price = 2
+	transport_cost = 2
+
+
+	demand_add = {
+		all = 0.0001
+	}
+
+	demand_multiply = {
+		upper = 25
+		tribesmen = 0
+	}
+
+	winter_demand_modifier = {
+		none = 0
+		mild = 0.5
+		normal = 1
+		severe = 2
+	}
+	topography_demand_modifier = {
+		mountains = 1.2
+	}
+}
+
+copper = {
+	method = mining
+	category = raw_material
+	color = goods_copper
+	default_market_price = 3
+	transport_cost = 1
+}
+
+tin = {
+	method = mining
+	category = raw_material
+	color = goods_tin
+	default_market_price = 2
+	transport_cost = 1
+}
+
+lead = {
+	method = mining
+	category = raw_material
+	color = goods_lead
+	default_market_price = 2
+	transport_cost = 1
+}
+
+alum = {
+	method = mining
+	category = raw_material
+	color = goods_alum
+	default_market_price = 3
+}
+
 salt = {
 	method = gathering
 	category = raw_material
 	color = goods_salt
 	default_market_price = 4
-	
+
+
 	demand_add = {
 		nobles = 0.05
-		burghers = 0.004
+		burghers = 0.02
+		clergy = 0.02
+	}
+
+
+	wealth_impact_threshold = {
+		all = 0.7
+	}
+
+	winter_demand_modifier = {
+		none = 0.75
+		mild = 1
+		normal = 1.2
+		severe = 2
 	}
 }
 
-ice = {
-	method = gathering
+iron = {
+	method = mining
 	category = raw_material
-	color = goods_ice
+	color = goods_iron
 	default_market_price = 3
+	transport_cost = 1
+	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
 	
-	demand_add = {
-		
-	}
+	ai_rgo_expansion_priority = 0.025
+	
 }
 
-
-medicaments = { #Medicinal plants, Pills, Opium, Mummy Powder, etc
-	method = gathering
+silver = {
+	method = mining
 	category = raw_material
-	color = goods_medicaments
-	default_market_price = 1
-	transport_cost = 0.5
+	color = goods_silver
+	default_market_price = 6
+	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
+	
+	transport_cost = 2
+
+	
+	ai_rgo_expansion_priority = 0.2
 	
 	demand_add = {
-		all = 0.0004
+		nobles = 0.025
 	}
-	
-	demand_multiply = {
-		nobles = 5
-		clergy = 2.5
-		burghers = 1.5
-		slaves = 0.1
-	}	
-	
 	
 	wealth_impact_threshold = {
-		all = 1.1
+		all = 1.05
 	}
+	
+}
 
+goods_gold = {
+	method = mining
+	category = raw_material
+	color = goods_gold
+	default_market_price = 8
+	
+	transport_cost = 2
+
+	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
+	
+	ai_rgo_expansion_priority = 0.2
+	
+	demand_add = {
+		nobles = 0.025
+	}	
+	
+	wealth_impact_threshold = {
+		all = 1.05
+	}
+	
 }
 
 gems = {
@@ -354,198 +269,287 @@ gems = {
 		nobles = 0.05
 	}
 
-
 	wealth_impact_threshold = {
 		all = 1.25
 	}
-	
 }
-
-
 
 pearls = {
 	method = gathering
 	category = raw_material
 	color = goods_pearls
 	default_market_price = 4
-	
+
 	demand_add = {
 		nobles = 0.05
 		burghers = 0.0025
 	}
 
 	development_threshold = 20
-	
-	wealth_impact_threshold = {
-		nobles = 1.0
-		burghers = 1.5
-	}
-	
-}
 
-amber = {
-	method = gathering
-	category = raw_material
-	color = goods_amber
-	default_market_price = 4
-	
-	demand_add = {
-		nobles = 0.1
-		burghers = 0.005
-	}	
-	
 	wealth_impact_threshold = {
 		nobles = 1.0
 		burghers = 1.5
 	}
 }
 
-saltpeter = {
-	method = mining
-	category = raw_material
-	color = goods_saltpeter
-	default_market_price = 2
-}
 
-alum = {
-	method = mining
-	category = raw_material
-	color = goods_alum
-	default_market_price = 3
-}
-
-
-wine = {
+grain = {
 	method = farming
 	category = raw_material
-	color = goods_wine
-	default_market_price = 2
-	
-	
+	color = goods_wheat
+
+	food = 8.0
+
+	default_market_price = 1
+
 	demand_add = {
-		all = 0.0004
+		all = 0.001
+		peasants = 0.002
+		laborers = 0.0015
+		soldiers = 0.0015
 	}
 	demand_multiply = {
-		upper = 10
-		nobles = 1.5
-		
+		upper = 2.5
 		slaves = 0
 		tribesmen = 0
 	}
-	custom_tags = { old_world_goods }
-}
 
-marble = {
-	method = mining
-	category = raw_material
-	color = goods_marble
-	default_market_price = 5
-	
-	demand_add = {
-		nobles = 0.05
-	}	
-	
-	development_threshold = 40
-	wealth_impact_threshold = {
-		nobles = 1.5
+	climate_demand_modifier = {
+		subtropical = 0.5
+		tropical = 0.5
 	}
 }
 
-mercury = {
-	method = mining
+fruit = {
+	method = farming
 	category = raw_material
-	color = goods_mercury
+	color = goods_fruit
+
+	food = 4
+	default_market_price = 1
+
+	transport_cost = 2
+
+	demand_add = {
+		all = 0.002
+	}
+
+	demand_multiply = {
+		upper = 2
+		tribesmen = 0
+	}
+
+	climate_demand_modifier = {
+		arctic = 0
+		cold_arid = 0.5
+		tropical = 1.2
+		mediterranean = 1.4
+	}
+}
+
+vegetables = {
+	method = farming
+	category = raw_material
+	color = goods_vegetables
+
+	food = 4
+	default_market_price = 1
+
+	transport_cost = 2
+
+	demand_add = {
+		all = 0.002
+	}
+
+	demand_multiply = {
+		upper = 2
+		tribesmen = 0
+	}
+
+	climate_demand_modifier = {
+		arctic = 0
+		cold_arid = 0.5
+		tropical = 1.2
+		mediterranean = 1.4
+	}
+}
+
+fiber_crops = {
+	method = farming
+	category = raw_material
+	color = goods_fiber_crops
+	default_market_price = 2
+}
+
+silk = {
+	method = farming
+	category = raw_material
+	color = goods_silk
+	default_market_price = 4
+	ai_rgo_size_importance = 3
+}
+
+herbs = {
+	method = gathering
+	category = raw_material
+	color = goods_medicaments
+	default_market_price = 1
+	transport_cost = 0.5
+
+	demand_add = {
+		all = 0.0004
+	}
+
+	demand_multiply = {
+		nobles = 5
+		clergy = 2.5
+		burghers = 1.5
+		slaves = 0.1
+		tribesmen = 0
+	}
+
+	wealth_impact_threshold = {
+		all = 1.1
+	}
+
+	disease_demand_modifier = 2
+
+}
+
+sugar = {
+	method = farming
+	category = raw_material
+	color = goods_sugar
 	default_market_price = 3
-	
+	ai_rgo_size_importance = 5
 
 	demand_add = {
-		all = 0.00005
+		nobles = 0.05
+		burghers = 0.005
+		clergy = 0.005
+	}
+
+}
+
+cotton = {
+	method = farming
+	category = raw_material
+	color = goods_cotton
+	default_market_price = 3
+	ai_rgo_size_importance = 5
+}
+
+ostrich_horses = {
+	method = farming
+	category = raw_material
+	color = goods_ostrich_horses
+	default_market_price = 3
+	transport_cost = 2
+	
+	demand_add = {
+		nobles =  0.25
 	}	
 	
-	wealth_impact_threshold = {
-		all = 1.0
-	}
 }
 
-
-
-saffron = {
+komodo_rhinos = {
 	method = farming
 	category = raw_material
-	color = goods_saffron
-	default_market_price = 5
-	transport_cost = 0.5
+	color = goods_komodo_rhinos
+	default_market_price = 3
+	transport_cost = 2
 	
 	demand_add = {
-		nobles = 0.05
-		burghers = 0.002
-		clergy = 0.005
-	}
-
-	wealth_impact_threshold = {
-		all = 1.1
-	}
+		nobles =  0.25
+	}	
 	
 }
 
-pepper = {
+buffalo_yaks = {
 	method = farming
 	category = raw_material
-	color = goods_pepper
-	default_market_price = 5
-	transport_cost = 0.5
+	color = goods_buffalo_yaks
+	default_market_price = 3
+	transport_cost = 2
 	
 	demand_add = {
-		nobles = 0.05
-		burghers = 0.0025
-		clergy = 0.005
-	}
+		nobles =  0.25
+	}	
 	
-	wealth_impact_threshold = {
-		all = 1.1
-	}
-
 }
 
-cloves = {
+poultry = {
 	method = farming
 	category = raw_material
-	color = goods_cloves
-	default_market_price = 5
-	transport_cost = 0.5
+	color = goods_livestock
 	
-	demand_add = {
-		nobles = 0.05
-		burghers = 0.0025
-		clergy = 0.005
-	}
+	food = 1.0
+	default_market_price = 1.5
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 	
-	wealth_impact_threshold = {
-		all = 1.1
-	}
-
 }
 
-
-
-chili = {
+cattle = {
 	method = farming
 	category = raw_material
-	color = goods_chili
-	default_market_price = 5
-	transport_cost = 0.5
+	color = goods_livestock
 	
-	demand_add = {
-		nobles = 0.05
-		burghers = 0.0025
-		clergy = 0.005
-	}
+	food = 2.0
+	default_market_price = 1.5
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 	
-	
-	wealth_impact_threshold = {
-		all = 1.1
-	}
-	
-	custom_tags = { new_world_goods }
 }
 
+wool_animal = {
+	method = farming
+	category = raw_material
+	color = goods_wool
+	default_market_price = 2.5
+
+	base_production = 0.0005
+
+	food = 1.0
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
+}
+
+fish = {
+	method = gathering
+	category = raw_material
+	color = goods_fish
+
+	food = 5.0
+
+	default_market_price = 1
+	demand_add = {
+		all = 0.001
+		peasants = 0.002
+		laborers = 0.002
+		soldiers = 0.002
+	}
+
+	demand_multiply = {
+		tribesmen = 2
+	}
+}
+
+wild_game = {
+	method = hunting
+	category = raw_material
+	color = goods_wild_game
+
+	food = 3.5
+
+	default_market_price = 1
+	demand_add = {
+		all =  0.0004
+	}
+	demand_multiply = {
+		nobles = 20
+		clergy = 5
+		burghers = 5
+		tribesmen = 0
+	}
+
+	no_demand_if_no_market_availability = yes
+}
