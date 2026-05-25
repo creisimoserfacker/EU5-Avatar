@@ -1,5 +1,5 @@
 ﻿combustion = {
-	age = age_6_last_airbender 
+	age = age_6_rebirth 
 
 	can_spawn = {
 		has_owner = yes
@@ -28,7 +28,7 @@
 }
 
 aircraft = { 
-	age = age_6_last_airbender 
+	age = age_6_rebirth 
 	
 	can_spawn = {
 		has_owner = yes
@@ -57,7 +57,7 @@ aircraft = {
 }
 
 machine_tools = {
-	age = age_6_last_airbender 
+	age = age_6_rebirth 
 	
 	can_spawn = {
 		has_owner = yes

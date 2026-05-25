@@ -1,5 +1,5 @@
 ﻿formal_education = {
-	age = age_4_roku 
+	age = age_4_lost_avatar 
 
 	can_spawn = {
 		has_owner = yes
@@ -28,7 +28,7 @@
 }
 
 scientific_revolution = { 
-	age = age_4_roku 
+	age = age_4_lost_avatar 
 	
 	can_spawn = {
 		has_owner = yes
@@ -57,7 +57,7 @@ scientific_revolution = {
 }
 
 bender_industrialisation = {
-	age = age_4_roku 
+	age = age_4_lost_avatar 
 	
 	can_spawn = {
 		has_owner = yes

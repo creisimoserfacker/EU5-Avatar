@@ -1,5 +1,5 @@
 ﻿metalurgy = {
-	age = age_3_kyoshi 
+	age = age_3_fire 
 
 	can_spawn = {
 		has_owner = yes
@@ -28,7 +28,7 @@
 }
 
 engineering = { 
-	age = age_3_kyoshi 
+	age = age_3_fire 
 	
 	can_spawn = {
 		has_owner = yes
@@ -57,7 +57,7 @@ engineering = {
 }
 
 bureaucracy = {
-	age = age_3_kyoshi 
+	age = age_3_fire 
 	
 	can_spawn = {
 		has_owner = yes

@@ -1,5 +1,5 @@
 ﻿navigation = {
-	age = age_2_kuruk 
+	age = age_2_strife 
 	
 	can_spawn = {
 		has_owner = yes
@@ -29,7 +29,7 @@
 }
 
 domsetication = {
-	age = age_2_kuruk 
+	age = age_2_strife 
 	
 	can_spawn = {
 		has_owner = yes
@@ -59,7 +59,7 @@ domsetication = {
 
 
 organised_spirituality = {
-	age = age_2_kuruk 
+	age = age_2_strife 
 	
 	can_spawn = {
 		has_owner = yes

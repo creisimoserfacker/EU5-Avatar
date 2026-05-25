@@ -1,5 +1,5 @@
 ﻿agricultural_revolution = {
-	age = age_1_yangchen 
+	age = age_1_harmony 
 	
 	can_spawn = {
 		has_owner = yes
@@ -31,7 +31,7 @@
 }
 
 wind_power = {
-	age = age_1_yangchen 
+	age = age_1_harmony 
 	
 	can_spawn = {
 		has_owner = yes
@@ -57,7 +57,7 @@ wind_power = {
 }
 
 trade = {
-	age = age_1_yangchen 
+	age = age_1_harmony 
 	
 	can_spawn = {
 		has_owner = yes

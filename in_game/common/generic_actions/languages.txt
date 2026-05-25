@@ -14,12 +14,6 @@
 
 	allow = {
 		scope:actor = {
-			OR = {
-				religion = {
-					has_fixed_liturgical_language = no
-				}
-				is_protestant = yes
-			}
 			
 		}
 	}
@@ -151,16 +145,6 @@ change_court_language = {
 				subject_type = {
 					only_allowed_overlord_court_language = no
 				}
-			}
-			trigger_if = {
-				limit = {
-					OR = {
-						has_reform = government_reform:papacy_reform
-						has_reform = government_reform:kingdom_of_god_reform
-					}
-					court_language = language:latin_language
-				}
-				always = no
 			}
 		}
 	}

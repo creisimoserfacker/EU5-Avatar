@@ -3,7 +3,7 @@
 ##########################
 
 farming_advance = {
-	age = age_1_yangchen
+	age = age_1_harmony
 		
 	global_max_rgo_size_modifier = 0.10
 	depth = 0
@@ -12,7 +12,7 @@ farming_advance = {
 }
 
 windmill_advance = {
-	age = age_1_yangchen
+	age = age_1_harmony
 		
 	global_max_rgo_size_modifier = 0.10
 	depth = 0

@@ -1,5 +1,5 @@
 ﻿steel_industry = {
-	age = age_5_lost_avatar 
+	age = age_5_last_airbender 
 
 	can_spawn = {
 		has_owner = yes
@@ -28,7 +28,7 @@
 }
 
 steam_engine = { 
-	age = age_5_lost_avatar 
+	age = age_5_last_airbender 
 	
 	can_spawn = {
 		has_owner = yes
@@ -57,7 +57,7 @@ steam_engine = {
 }
 
 chemistry = {
-	age = age_5_lost_avatar 
+	age = age_5_last_airbender 
 	
 	can_spawn = {
 		has_owner = yes

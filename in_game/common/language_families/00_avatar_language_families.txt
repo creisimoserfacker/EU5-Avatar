@@ -1,3 +1,7 @@
 ﻿fire_language_family = {
 	color = map_firenation
 }
+
+earth_language_family = {
+	color = map_firenation
+}

@@ -1,7 +1,8 @@
-﻿nonbender = { 
+﻿nonbender_religion = { 
 	color = nonbender_color
 	group = nonbender_group
-	language = common_language
+
+	language = earth_language
 	
 	
 	definition_modifier = {

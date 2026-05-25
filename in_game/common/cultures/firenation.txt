@@ -12,3 +12,31 @@ fire_culture = {
 		fire_culture_group
 	}
 }
+
+earth_culture = {
+	language = earth_language
+	
+	color = map_earthkingdom
+	
+	tags = { european_gfx }
+
+	opinions = {
+	}	
+	culture_groups = {
+		earth_culture_group
+	}
+}
+
+nonbender_culture = {
+	language = nonbender_language
+	
+	color = nonbender_color
+	
+	tags = { european_gfx }
+
+	opinions = {
+	}	
+	culture_groups = {
+		earth_culture_group
+	}
+}

@@ -1,16 +1,16 @@
 institution_manager = {
 	institutions = {
-		feudalism = {
+		agricultural_revolution = {
 			active = yes
-			birth_place = caldera_city
+			birth_place = caldera_city_1
 		}
-		legalism = {
+		wind_power = {
 			active = yes
-			birth_place = caldera_city
+			birth_place = caldera_city_1
 		}
-		meritocracy = {
+		trade = {
 			active = yes
-			birth_place = caldera_city
+			birth_place = caldera_city_1
 		}
 	}
 }
