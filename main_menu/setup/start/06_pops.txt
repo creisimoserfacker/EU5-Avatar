@@ -7,21 +7,43 @@ locations = {
         define_pop = {  type = peasants size = 15.598   culture = earth_culture  religion = nonbender }
     }
     north_caldera_3 = {
-        define_pop = {  type = nobles   size = 0.012    culture = fire_culture  religion = firebender }
-        define_pop = {  type = clergy   size = 0.057    culture = fire_culture  religion = nonbender }
-        define_pop = {  type = burghers size = 1.776    culture = fire_culture  religion = nonbender }
-        define_pop = {  type = peasants size = 5.598   culture = fire_culture  religion = nonbender }
-        define_pop = {  type = peasants size = 1.598   culture = earth_culture  religion = nonbender }
+        define_pop = { type = nobles size = 0.012 culture = fire_culture religion = firebender }
+        define_pop = { type = clergy size = 0.057 culture = fire_culture religion = nonbender }
+        define_pop = { type = burghers size = 1.776 culture = fire_culture religion = nonbender }
+        define_pop = { type = peasants size = 5.598 culture = fire_culture religion = nonbender }
+        define_pop = { type = peasants size = 1.598 culture = earth_culture religion = nonbender }
+    }
+    caldera_harbour_1 = {
+        define_pop = { type = nobles size = 0.006 culture = fire_culture religion = firebender }
+        define_pop = { type = clergy size = 0.036 culture = fire_culture religion = nonbender }
+        define_pop = { type = burghers size = 2.342 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 27.598 culture = fire_culture religion = nonbender }
     }
     north_caldera_2 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     north_caldera_1 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     ashfield_town_4 = {
     }
     ashfields_2 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     ashfields_7 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     ashfields_6 = {
     }
@@ -30,26 +52,58 @@ locations = {
     dragonfield_field_5 = {
     }
     dragonfield_field_1 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_field_2 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_field_3 = {
     }
     dragonfield_field_7 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_town_2 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_town_3 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_field_6 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_field_4 = {
     }
     dragonfield_town_1 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     north_caldera_5 = {
     }
     north_caldera_4 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     west_kirachu_island_1 = {
     }
@@ -118,11 +172,51 @@ locations = {
     dragonrange_path_6 = {
     }
     dragonfield_town_5 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragonfield_town_4 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     ashfield_town_1 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
     dragontooth_town_3 = {
+    }
+    caldera_harbour_2 = {
+    }
+    caldera_city_10 = {
+    }
+    caldera_harbour_3 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
+    }
+    caldera_harbour_4 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
+    }
+    ashfield_town_3 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
+    }
+    ashfield_town_2 = {
+        define_pop = { type = nobles size = 0.008 culture = fire_culture religion = firebender }
+        define_pop = { type = burghers size = 0.02 culture = fire_culture religion = firebender }
+        define_pop = { type = peasants size = 0.5 culture = fire_culture religion = nonbender }
+        define_pop = { type = clergy size = 0.008 culture = fire_culture religion = firebender }
     }
 }

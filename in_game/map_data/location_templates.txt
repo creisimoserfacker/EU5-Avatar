@@ -4429,7 +4429,7 @@ northern_dragon_range_volcano = { topography = mountain_wasteland vegetation = s
 4446 = {}
 4447 = { topography = hills}
 4448 = { topography = hills}
-dragontooth_town_1 = { topography = flatland vegetation = farmland}
+dragontooth_town_1 = { topography = flatland vegetation = farmland climate = subtropical }
 4450 = { topography = hills}
 4451 = {}
 4452 = {}

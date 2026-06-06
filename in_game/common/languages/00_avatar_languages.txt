@@ -1,0 +1,23 @@
+﻿
+
+fire_language = {
+
+	color = map_firenation
+
+	family = fire_language_family
+
+}
+
+earth_language = {
+
+	color = map_firenation
+
+	family = earth_language_family
+
+}
+
+nonbender_language = {
+
+	color = nonbender_color
+
+}

@@ -1,0 +1,19 @@
+﻿l_english:
+
+ #### religions / benders
+ 
+ fire_group: "Firebenders"
+ fire_group_ADJ: "Firebenders"
+ fire_group_desc: "Firebenders"
+ nonbender_group: "Nonbenders"
+ nonbender_group_ADJ: "Nonbenders"
+ nonbender_group_desc: "Nonbenders"
+ firebender: "Firebender"
+ firebender_ADJ: "Firebender"
+ firebender_desc: "Firebender"
+ sun_warrior: "Sun Warrior"
+ sun_warrior_ADJ: "Sun Warrior"
+ sun_warrior_desc: "Sun Warrior"
+ nonbender: "Non-bender"
+ nonbender_ADJ: "Non-bender"
+ nonbender_desc: "Non-bender"
