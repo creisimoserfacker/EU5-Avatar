@@ -1,0 +1,13 @@
+locations={
+	
+	caldera_city_1 = { rank = town 		town_setup = test_town }
+
+}
+
+
+building_manager = {
+
+
+	
+
+}

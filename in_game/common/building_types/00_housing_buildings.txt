@@ -1,0 +1,105 @@
+
+small_hut = {
+	is_foreign = no
+	max_levels = 100
+	pop_type = peasants
+	
+	category = estate_category
+	
+	employment_size = 0.001
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+	
+	country_potential = {
+		
+	}
+	
+	estate = peasants_estate
+	
+	build_time = estate_build_time
+
+	destroyable_building = yes
+	
+	possible_production_methods = {
+		estate_building_input
+	}
+
+	construction_demand = estate_construct_building
+
+	modifier = {
+		local_population_capacity = 0.006
+	}
+}
+
+small_house = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = laborers
+	
+	category = estate_category
+	
+	employment_size = 0.001
+	
+	rural_areas = no
+	rural_settlement = yes
+	town = yes
+	city = yes
+	
+	country_potential = {
+		
+	}
+	
+	estate = peasants_estate
+	
+	build_time = estate_build_time
+
+	destroyable_building = yes
+	
+	possible_production_methods = {
+		estate_building_input
+	}
+
+	construction_demand = estate_construct_building
+
+	modifier = {
+		local_population_capacity = 0.012
+	}
+}
+
+noble_villa = {
+	is_foreign = no
+	max_levels = estate_building_stackable_level
+	pop_type = nobles
+	
+	category = estate_category
+	
+	employment_size = minor_noble_employment
+	
+	rural_settlement = yes
+	town = no
+	city = no
+	
+	country_potential = {
+		has_estate_privilege = estate_privilege:nobles_land_rights
+	}
+	
+	estate = nobles_estate
+	
+	build_time = estate_build_time
+
+	destroyable_building = yes
+	
+	possible_production_methods = {
+		estate_building_input
+	}
+
+	construction_demand = estate_construct_building
+
+	modifier = {
+		local_nobles_estate_power = 0.2
+		local_peasant_enfranchisment = -0.02
+	}
+}

@@ -1,0 +1,8 @@
+﻿housing_max_level = {
+	add = {
+		desc = "BUILDING_LEVEL_BASE"
+		value = modifier:free_building_levels
+	}
+	
+}
+
