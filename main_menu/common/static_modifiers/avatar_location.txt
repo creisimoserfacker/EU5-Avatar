@@ -174,13 +174,15 @@ has_road_connected_to_capital = {
 	local_integration_speed_modifier = 0.1
 }
 
-location_size_impact = {
+TRY_REPLACE:location_size_impact = {
 	game_data = {
 		category = location
 	}
 	local_institution_growth_modifier = -0.01
 	
 	occupation_time = 0.0025
+
+	free_building_levels = 1
 }
 
 TRY_REPLACE:location_closeness_to_equator_impact = {

@@ -1,6 +1,9 @@
 ﻿rgo_building_category = {
 }
 
+housing_category = {
+}
+
 basic_industry_category = {
 }
 

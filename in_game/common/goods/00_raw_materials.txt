@@ -95,26 +95,6 @@ ice = {
 	no_demand_if_no_market_availability = yes
 }
 
-water = {
-	method = gathering
-	category = raw_material
-	color = goods_water
-	default_market_price = 1
-	base_production = 0.02
-	transport_cost = 3
-	
-	ai_rgo_expansion_priority = 0.025
-	ai_rgo_size_importance = 3 # ai preference to avoid building a city on this rgo
-
-	climate_demand_modifier = {
-		subtropical = 1.4
-		tropical = 2
-		mediterranean = 1.2
-		arctic = 0.2
-		cold_arid = 0.5
-	}
-}
-
 coal = {
 	method = mining
 	category = raw_material
