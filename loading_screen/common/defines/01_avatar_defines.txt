@@ -6,3 +6,12 @@
 	MORNING_OFFSET = 0
 	
 }
+
+NJominiMap = {
+	@world_height = 32
+	@water_level_percentage = 0.097
+	WORLD_EXTENTS_X = 16384
+	WORLD_EXTENTS_Y = @world_height
+	WORLD_EXTENTS_Z = 8192
+	WATERLEVEL = @[ world_height * water_level_percentage ]
+}
