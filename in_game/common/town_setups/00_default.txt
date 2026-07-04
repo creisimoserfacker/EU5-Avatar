@@ -1,6 +1,6 @@
 ﻿test_town = {
-	small_house = 127
-	noble_villa = 1
+	average_housing_district = 3
+	wealthy_housing_district = 1
 	tea_shop = 1
 	slum_district = 1
 }

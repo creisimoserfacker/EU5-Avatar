@@ -20,7 +20,6 @@ tea_shop = {
 	unique_production_methods = {		
 		tea_herb_maintenance = {
 			herbs = 1.25
-			water = 0.5
 			lumber = 0.12
 			tools = 0.05
 

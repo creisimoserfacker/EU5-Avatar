@@ -273,6 +273,33 @@ pearls = {
 	}
 }
 
+beeswax = {
+	method = farming
+	category = raw_material
+	color = goods_beeswax
+
+	food = 2.5
+
+	default_market_price = 2
+
+	demand_add = {
+		all = 0.0008
+	}
+	demand_multiply = {
+		upper = 2
+		slaves = 0
+		tribesmen = 0
+	}
+
+	winter_demand_modifier = {
+		none = 0.5
+		mild = 0.5
+		normal = 1.2
+		severe = 2
+	}
+	no_demand_if_no_market_availability = yes
+}
+
 
 grain = {
 	method = farming

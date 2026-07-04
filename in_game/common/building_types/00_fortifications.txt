@@ -1,3 +1,112 @@
+
+wooden_keep = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = soldiers
+	forbidden_for_estates = yes
+	
+	category = defense_category
+	
+	employment_size = castle_employment
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = yes
+	city = yes
+	megalopolis = yes
+
+
+	location_potential = {
+		is_province_capital = yes
+	}
+	
+	
+	build_time = medium_fort_building
+
+	expensive = yes
+	
+	
+	unique_production_methods = {
+		wooden_keep_maintenance = {
+			lumber = 0.1
+			tools = 0.05
+			weaponry = 0.1
+			tar = 0.025
+			category = building_maintenance
+		}
+	}
+	construction_demand = wooden_keep_construction
+	
+
+	modifier = {
+		local_garrison_size = 0.01
+		local_unrest = -0.01
+	}
+	
+	raw_modifier = {
+		fort_level = 2
+		propagating_zone_of_control = yes
+	}
+}
+
+wooden_walls = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = soldiers
+	forbidden_for_estates = yes
+	
+	category = defense_category
+	
+	employment_size = castle_employment
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = yes
+	city = yes
+	megalopolis = yes
+	
+
+	location_potential = {
+		this.province = {
+			province_capital = {
+				location_building_level = {
+					building_type = building_type:wooden_keep
+					value > 0
+				}
+			}
+		}
+	}
+	
+	build_time = medium_fort_building
+
+	expensive = yes
+	
+	
+	unique_production_methods = {
+		wooden_walls_maintenance = {
+			lumber = 0.1
+			tools = 0.05
+			weaponry = 0.1
+			tar = 0.025
+			category = building_maintenance
+		}
+	}
+	construction_demand = wooden_keep_construction
+	
+
+	modifier = {
+		local_garrison_size = 0.01
+		local_unrest = -0.01
+	}
+	
+	raw_modifier = {
+		fort_level = 1
+		propagating_zone_of_control = no
+	}
+}
+
+
+
 wall_of_ba_sing_se = {
 	is_special = yes
 	is_foreign = no

@@ -174,22 +174,20 @@ has_road_connected_to_capital = {
 	local_integration_speed_modifier = 0.1
 }
 
-TRY_REPLACE:location_size_impact = {
+location_size_impact = {
 	game_data = {
 		category = location
 	}
 	local_institution_growth_modifier = -0.01
 	
 	occupation_time = 0.0025
-
-	free_building_levels = 1
 }
 
 TRY_REPLACE:location_closeness_to_equator_impact = {
 	game_data = {
 		category = location
 	}
-	free_building_levels = 10
+	local_population_capacity_modifier = 1
 }
 
 movement_cost = {
@@ -303,7 +301,7 @@ TRY_REPLACE:development = {
 	
 	local_monthly_food_modifier = 0.01
 	
-	free_building_levels = 2
+	free_building_levels = 0.1
 	
 	local_max_rgo_size = 0.1
 	
@@ -591,6 +589,8 @@ TRY_REPLACE:total_population = {
 	blockade_force_required = 0.02
 	
 	local_max_rgo_size = 0.025
+	
+	free_building_levels = 10
 }
 
 

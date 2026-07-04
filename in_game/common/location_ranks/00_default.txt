@@ -24,7 +24,7 @@ megalopolis = {
 		
 		local_pop_promotion_speed_modifier = 0.50
 		
-		free_building_levels = 200
+		free_building_levels = 10
 		
 		max_constructions_at_same_time = 2
 		local_max_rgo_size_modifier = -0.5
@@ -91,7 +91,7 @@ city = {
 		
 		local_pop_promotion_speed_modifier = 0.25
 		
-		free_building_levels = 100
+		free_building_levels = 8
 		
 		local_peasant_enfranchisment = 0.25
 		
@@ -143,7 +143,7 @@ town = {
 		
 		local_possible_town_rights = 1
 		
-		free_building_levels = 25
+		free_building_levels = 6
 		
 		local_peasant_enfranchisment = 0.1
 

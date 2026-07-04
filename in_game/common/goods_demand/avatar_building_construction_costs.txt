@@ -1,0 +1,146 @@
+﻿
+
+############## housings ##################
+
+primitive_tent_housings_construction = {
+	bones = 0.3
+	fur = 0.8
+	stone = 0.1
+	lumber = 0.1
+	
+	category = building_construction
+}
+
+tent_housings_construction = {
+	ropes = 0.2
+	lumber = 0.4
+	cloth = 0.8
+	beeswax = 0.1
+	
+	category = building_construction
+}
+
+tree_houses_construction = {
+	ropes = 0.3
+	lumber = 1
+	cloth = 0.2
+	
+	category = building_construction
+}
+
+igloos_construction = {
+	ice = 0.8
+	lumber = 0.1
+	fur = 0.2
+	
+	category = building_construction
+}
+
+snow_houses_construction = {
+	ice = 1.4
+	lumber = 0.1
+	fur = 0.2
+	
+	category = building_construction
+}
+
+ice_houses_construction = {
+	ice = 2
+	lumber = 0.1
+	fur = 0.2
+	
+	category = building_construction
+}
+
+small_huts_construction = {
+	lumber = 0.6
+	wheat = 0.5
+	fur = 0.2
+	stone = 0.1
+	
+	category = building_construction
+}
+
+simple_housing_district_construction = {
+	lumber = 0.6
+	planks = 0.8
+	stone = 0.4
+	cloth = 0.4
+	Copper = 0.1
+	
+	category = building_construction
+}
+
+average_housing_district_construction = {
+	lumber = 0.4
+	planks = 1
+	masonry = 0.6
+	glass = 0.3
+	cloth = 0.3
+	bronze = 0.1
+	
+	category = building_construction
+}
+
+wealthy_housing_district_construction = {
+	planks = 1.2
+	marble = 0.2
+	masonry = 0.5
+	glass = 0.5
+	fine_cloth = 0.4
+	iron = 0.2
+	
+	category = building_construction
+}
+
+
+############## infrastructure ##################
+
+aqueduct_system_construction = {
+	masonry = 2
+	tools = 0.4
+	lumber = 0.8
+	
+	category = building_construction
+}
+
+irrigation_systems_construction = {
+	masonry = 0.4
+	tools = 0.2
+	lumber = 0.8
+	
+	category = building_construction
+}
+
+hospital_construction = {
+	masonry = 0.6
+	cloth = 0.4
+	lumber = 0.4
+	glass = 0.2
+	
+	category = building_construction
+}
+
+
+############## fortification ##################
+
+
+wooden_keep_construction = {
+	lumber = 1.2
+	planks = 0.6
+	stone = 0.4
+	
+	category = building_construction
+}
+
+
+
+
+
+
+
+
+
+
+
+
