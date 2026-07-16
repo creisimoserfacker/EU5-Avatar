@@ -1,7 +1,15 @@
-﻿fire_language_family = {
-	color = map_firenation
+﻿fire_tradition_family = {
+	color = map_fire
 }
 
-earth_language_family = {
-	color = map_firenation
+earth_tradition_family = {
+	color = map_earth
+}
+
+water_tradition_family = {
+	color = map_water
+}
+
+air_tradition_family = {
+	color = map_air
 }

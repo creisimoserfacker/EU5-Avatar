@@ -1,6 +1,6 @@
 ﻿
 fire_culture = {
-	language = fire_language
+	language = fire_mainland_traditions
 	
 	color = map_firenation
 	
@@ -14,23 +14,9 @@ fire_culture = {
 }
 
 earth_culture = {
-	language = earth_language
+	language = ba_sing_se_traditions
 	
 	color = map_earthkingdom
-	
-	tags = { european_gfx }
-
-	opinions = {
-	}	
-	culture_groups = {
-		earth_culture_group
-	}
-}
-
-nonbender_culture = {
-	language = nonbender_language
-	
-	color = nonbender_color
 	
 	tags = { european_gfx }
 

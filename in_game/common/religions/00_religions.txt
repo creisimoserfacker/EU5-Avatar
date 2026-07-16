@@ -15,7 +15,7 @@
 		
 	}	
 
-	tags = { abrahamic_gfx }
+	tags = { christian_gfx }
 }
 
 sun_warrior = { 
@@ -35,7 +35,7 @@ sun_warrior = {
 		
 	}	
 
-	tags = { abrahamic_gfx }
+	tags = { christian_gfx }
 }
 
 nonbender = { 
@@ -55,6 +55,6 @@ nonbender = {
 		
 	}	
 
-	tags = { abrahamic_gfx }
+	tags = { christian_gfx }
 }
 

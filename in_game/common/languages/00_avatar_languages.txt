@@ -1,23 +1,34 @@
 ﻿
 
-fire_language = {
+fire_mainland_traditions = {
 
 	color = map_firenation
 
-	family = fire_language_family
+	family = fire_tradition_family
+
+	dialects = {
+		caldera_city_traditions = {}
+	}
+}
+
+sunwarrior_traditions = {
+
+	color = map_sunwarrior
+
+	family = fire_tradition_family
 
 }
 
-earth_language = {
+ba_sing_se_traditions = {
 
 	color = map_firenation
 
-	family = earth_language_family
+	family = earth_tradition_family
 
-}
-
-nonbender_language = {
-
-	color = nonbender_color
-
+	dialects = {
+		agrarian_ba_sing_se_traditions = {}
+		lower_ring_ba_sing_se_traditions = {}
+		middle_ring_ba_sing_se_traditions = {}
+		upper_ring_ba_sing_se_traditions = {}
+	}
 }

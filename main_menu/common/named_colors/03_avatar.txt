@@ -1,4 +1,9 @@
 colors = {
+	map_fire = rgb { 165 20 10 }
+	map_earth = rgb { 20 120 10 }
+	map_water = rgb { 10 20 120 }
+	map_air = rgb { 165 180 50 }
+
 	map_firenation = rgb { 165 20 10 }
 	map_earthkingdom = rgb { 20 120 10 }
 

@@ -11,5 +11,14 @@
  fire_language: "Fire Language"
  nonbender_language: "Non-bender Language"
 
- earth_language_family: "Earth Language Family"
- fire_language_family: "Fire Language Family"
+ fire_mainland_traditions: "Fire Traditions"
+ caldera_city_traditions: "Caldera Traditions"
+ sunwarrior_traditions: "Sunwarrior Traditions"
+ ba_sing_se_traditions: "Ba Sing Se Traditions"
+ agrarian_ba_sing_se_traditions: "Ba Sing Se Traditions"
+ lower_ring_ba_sing_se_traditions: "Ba Sing Se Traditions"
+ middle_ring_ba_sing_se_traditions: "Ba Sing Se Traditions"
+ upper_ring_ba_sing_se_traditions: "Ba Sing Se Traditions"
+
+ fire_tradition_family: "Fire Tradition Family"
+ earth_tradition_family: "Earth Tradition Family"

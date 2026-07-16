@@ -24,7 +24,7 @@ countries = {
 
 			country_rank = rank_kingdom
 			dynasty = royal_fire_dynasty
-			capital = caldera_city
+			capital = caldera_city_1
 		}
 	}
 }

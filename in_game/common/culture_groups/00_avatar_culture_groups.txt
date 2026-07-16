@@ -3,3 +3,7 @@
 fire_culture_group = {
 	
 }
+
+earth_culture_group = {
+	
+}
