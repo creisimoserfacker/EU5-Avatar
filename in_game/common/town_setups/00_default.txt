@@ -1,6 +1,0 @@
-﻿test_town = {
-	average_housing_district = 3
-	wealthy_housing_district = 1
-	tea_shop = 1
-	slum_district = 1
-}

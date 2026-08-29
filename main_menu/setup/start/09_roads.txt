@@ -1,6 +1,4 @@
 
 road_network = {
- 	caldera_harbour_1 = caldera_harbour_2
- 	caldera_harbour_2 = caldera_city_2
- 	caldera_city_2 = caldera_city_1
+ 	testprovince1 = testprovince2
 }

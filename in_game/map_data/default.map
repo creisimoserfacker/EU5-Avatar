@@ -6,15 +6,13 @@ setup = "definitions.txt"
 ports = "ports.csv"
 location_templates = "location_templates.txt"
 
-equator_y = 4096
+equator_y = 3340
 wrap_x = yes
 
 #############
 # VOLCANOES
 #############
 volcanoes = {
-	northern_dragon_range_volcano
-	southern_dragon_range_volcano
 }
 
 ###################################
@@ -26,9 +24,67 @@ earthquakes = {
 #############
 # SEA ZONES
 #############
-# European Seas
+# fire seas
 sea_zones = { 
-	caldera_bay
+	my_sea_zone province_4017 province_4153 province_4300 province_4456 province_4259 province_4078
+    province_3965 province_4134 province_3987 province_3921 province_3767 province_3723 province_3835
+    province_4009 province_3802 province_3613 province_3817 province_3632 province_3669 province_3757
+    province_3941 province_3510 province_3619 province_3478 province_3428 province_3527 province_3461
+    province_3422
+    province_3444 province_3531 province_3643 province_3488 province_3663 province_3750 province_3784
+    province_3929 province_3908 province_3769 province_3890 province_4053 province_4067 province_4032
+    province_3971 province_3655 province_3796 province_3910 province_3783
+
+    province_3068 province_2985 province_3223 province_3124 province_3277 province_3289 province_3456
+    province_3471 province_3668 province_3790 province_3899 province_3069 province_2904 province_2957
+    province_2927 province_2931 province_2771 province_2788 province_2826
+    province_4392 province_4341 province_4183 province_4147 province_4347 province_4237 province_4136
+    province_4022 province_4011 province_3936 province_3744 province_3733 province_3560 province_3865
+    province_3662 province_3460 province_3618
+    province_5062 province_4958 province_5079 province_4768 province_4969 province_4800 province_4634
+    province_4503 province_4628 province_4464
+
+    province_3621 province_3532 province_3755 province_3724 province_3573 province_3473 province_3309
+    province_3479 province_3378 province_3216 province_3508 province_3400
+    province_4031 province_4100 province_4267 province_4226 province_4223 province_4043 province_3901
+    province_4635 province_4651 province_4834 province_4829 province_5012 province_5117 province_4822
+    province_5066 province_4932 province_4663 province_4764 province_4843 province_4659
+    province_4382 province_3966 province_3851 province_4086 province_3946 province_4317 province_4409
+    province_3997 province_3903 province_4229 province_4566
+    province_4804 province_4796 province_4621 province_4679 province_4521 province_4417 province_4144
+    province_4322 province_4406 province_4337
+    province_5511 province_5359 province_5305 province_5515 province_5412 province_5479 province_5266
+    province_5354 province_5135 province_5197 province_4996 province_5044 province_4956
+    province_4914 province_5047 province_5313 province_5408 province_5505 province_5363 province_5143
+    province_4952 province_5181
+    province_4030 province_3852 province_3844 province_3945 province_4113 province_3922 province_4110
+    province_4037 province_4055 province_3870
+    province_3339 province_3112 province_3253 province_3157 province_3108 province_2974 province_3096
+    province_2899 province_3153 province_3133
+
+    province_5098 province_5281 province_5334 province_5461 province_5413 province_5606 province_5478
+    province_5343 province_5169 province_5133 province_5345 province_5488 province_5418 province_5268
+    province_5112 province_5145 province_4955 province_5370
+    province_4555 province_4715 province_4919 province_4749 province_4557 province_4780 province_5096
+    province_4931 province_4813 province_4892 province_5049 province_5063 province_5176 province_5298
+    province_5336 province_5282 province_5134 province_4936 province_4524
+    province_4132 province_4089 province_4212 province_4225 province_4396 province_4336 province_4390
+    province_4516 province_4649 province_4513 province_4731 province_4852 province_4878 province_4657
+    province_4451 province_4328
+    province_4062 province_4027 province_3330 province_3511 province_3658 province_3825 province_3930
+    province_3758 province_3862 province_3904 province_3915
+    province_2818 province_2838 province_2833 province_2824 province_2624 province_2736 province_3208
+    province_3087 province_2851 province_2690 province_2933 province_2725 province_2712 province_2720
+    province_2635 province_2581 province_2499 province_2654 province_2541 province_2425
+    province_2613 province_2490 province_2281 province_2376 province_2398 province_2233 province_2328
+    province_2213 province_2217 province_2149 province_2323 province_2409 province_2231 province_2203
+    province_2354 province_2393 province_2297 province_2402 province_2279
+    province_3213 province_3177 province_3025 province_2871 province_2780 province_2825 province_2606
+    province_2555 province_935 province_2877 province_3125 province_3143 province_3021 province_2763
+    province_2145 province_2247 province_2384 province_2321 province_2440 province_2382 province_2502
+    province_2431 province_2567 province_2492 province_2618 province_2687 province_2565
+    province_2843 province_2809 province_2721 province_2775 province_2782 province_2779 province_2890
+    province_2538 province_2677 province_2773
 } 
 
 ###############
@@ -40,6 +96,9 @@ sea_zones = {
 # LAKES
 ########
 lakes = { 
+    province_3896
+    province_2648
+    province_2808
 } 
 
 #####################
@@ -49,9 +108,36 @@ lakes = {
 # Blocks unit movement.
 
 impassable_mountains = {
-	caldera_volcano
-	northern_dragon_range_volcano
-	southern_dragon_range_volcano
+	province_3845
+    province_2491
+    province_3011
+    province_3015
+    province_3067
+    province_3070
+    province_3149
+    province_3248
+    province_3359
+    province_3375
+    province_3403
+    province_3494
+    province_3553
+    province_3645
+    province_3654
+    province_3726
+    province_3872
+    province_4107
+    province_4181
+    province_4262
+    province_4298
+    province_4316
+    province_4389
+    province_4474
+    province_4528
+    province_4617
+    province_4719
+    province_4785
+    province_3676
+    province_9206
 }
 
 non_ownable = {

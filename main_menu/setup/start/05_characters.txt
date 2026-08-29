@@ -2,19 +2,19 @@
 
 character_db={
 
-	FIR_sozin = {
-		first_name = { name = name_sozin }
+	hab_albrecht_ii_habsburg = {
+		first_name = { name = name_albert }
 		nickname = { name = the_wise }
 		culture = fire_culture
 		religion = firebender
 		estate = nobles_estate
-		adm = 87 dip = 55 mil = 78
+		adm = 85 dip = 66 mil = 33
 		female = no
-		birth_date = 3619.8.5
-		birth = caldera_city
-		dynasty = royal_fire_dynasty
+		birth_date = 1298.12.12
+		birth = testprovince1
+		dynasty = habsburg_dynasty
 		fertility = 75
-		tag = FIR
+		tag = HAB
 		ruler_trait = lawgiver
 	}
 }

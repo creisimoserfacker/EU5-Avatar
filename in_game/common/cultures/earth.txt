@@ -1,0 +1,15 @@
+﻿
+
+earth_culture = {
+	language = ba_sing_se_traditions
+	
+	color = map_earthkingdom
+	
+	tags = { european_gfx }
+
+	opinions = {
+	}	
+	culture_groups = {
+		earth_culture_group
+	}
+}

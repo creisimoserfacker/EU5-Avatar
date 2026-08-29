@@ -197,3 +197,13 @@
     additional_textures = {
     }
 }
+
+{
+    name = volcano_02
+    layer_textures = {
+        heightmap = "volcano_02_height.png"
+        materials = "volcano_02_bitmask.png"
+    }
+    additional_textures = {
+    }
+}

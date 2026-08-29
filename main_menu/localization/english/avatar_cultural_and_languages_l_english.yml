@@ -5,7 +5,9 @@
  nonbend_culture: "Nonbender Culture"
 
  earth_culture_group: "Earth Culture Group"
+ earth_culture_group_desc: "The $earth_culture_group$ $group_text$ $ba_sing_se_traditions$."
  fire_culture_group: "Fire Culture Group"
+ fire_culture_group_desc: "The $fire_culture_group$ $group_text$ $fire_mainland_traditions$."
 
  earth_language: "Earth Language"
  fire_language: "Fire Language"

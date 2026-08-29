@@ -1,11 +1,150 @@
-current_age = age_1_harmony
+current_age = age_1_traditions
 
 countries = {
 	countries = {
-		FIR = {	#firenation
-			own_control_core = {
-				caldera_harbour_1 caldera_harbour_2 caldera_harbour_3 caldera_harbour_4 caldera_harbour_5 caldera_harbour_6 caldera_city_1 caldera_city_2 caldera_city_3 caldera_city_4 caldera_city_5 caldera_city_6 caldera_city_7 caldera_city_8 caldera_city_9 caldera_city_10 caldera_city_11 north_caldera_1 north_caldera_2 north_caldera_3 north_caldera_4 north_caldera_5 ashfield_town_1 ashfield_town_2 ashfield_town_3 ashfield_town_4 ashfield_town_5 ashfield_town_6 dragonrange_path_5 dragonrange_path_3 dragonrange_path_1 dragonrange_path_2 dragonrange_path_4 dragonrange_path_6 dragonfield_town_1 dragonfield_town_2 dragonfield_town_3 dragonfield_town_4 dragonfield_town_5 dragonfield_field_1 dragonfield_field_2 dragonfield_field_4 dragonfield_field_3 dragonfield_field_5 dragonfield_field_6 dragonfield_field_7 red_approaches_1 red_approaches_3 red_approaches_4 red_approaches_5 red_approaches_6 red_approaches_7 ashfields_1 ashfields_2 ashfields_3 ashfields_4 ashfields_5 ashfields_6 ashfields_7 west_kirachu_island_1 west_kirachu_island_2 west_kirachu_island_3 west_kirachu_island_4 west_kirachu_island_5 west_kirachu_island_6 east_kirachu_island_1	east_kirachu_island_2	east_kirachu_island_3	east_kirachu_island_4	east_kirachu_island_5 dragontooth_town_1 dragontooth_town_2 dragontooth_town_3 dragontooth_town_4 dragontooth_town_5 dragontooth_town_6
-			}
+		FIR = {
+	own_control_core = {
+		caldera_province_1  province_2338       province_2419       province_2423       province_2426       province_2441
+		province_2450       province_2452       province_2462       province_2467       province_2472       province_2473
+		province_2476       province_2477       province_2480       province_2483       province_2487       province_2496
+		province_2497       province_2500       province_2515       province_2518       province_2520       province_2521
+		province_2522       province_2525       province_2532       province_2539       province_2543       province_2546
+		province_2547       province_2548       province_2559       province_2570       province_2572       province_2580
+		province_2585       province_2586       province_2589       province_2590       province_2601       province_2603
+		province_2609       province_2616       province_2619       province_2620       province_2626       province_2634
+		province_2636       province_2640       province_2643       province_2663       province_2667       province_2675
+		province_2676       province_2679       province_2685       province_2688       province_2695       province_2697
+		province_2700       province_2702       province_2703       province_2714       province_2716       province_2717
+		province_2724       province_2733       province_2735       province_2737       province_2741       province_2749
+		province_2754       province_2755       province_2758       province_2765       province_2774       province_2786
+		province_2797       province_2799       province_2830       province_2831       province_2839       province_2840
+		province_2844       province_2852       province_2856       province_2857       province_2858       province_2862
+		province_2867       province_2869       province_2882       province_2884       province_2886       province_2891
+		province_2900       province_2901       province_2905       province_2906       province_2907       province_2912
+		province_2914       province_2925       province_2934       province_2942       province_2943       province_2944
+		province_2945       province_2946       province_2949       province_2953       province_2954       province_2958
+		province_2961       province_2962       province_2967       province_2973       province_2976       province_2977
+		province_2979       province_2980       province_2986       province_2995       province_2997       province_2999
+		province_3001       province_3006       province_3007       province_3008       province_3009       province_3012
+		province_3022       province_3024       province_3027       province_3028       province_3030       province_3033
+		province_3034       province_3040       province_3041       province_3045       province_3046       province_3047
+		province_3051       province_3052       province_3056       province_3060       province_3064       province_3071
+		province_3076       province_3077       province_3082       province_3083       province_3084       province_3086
+		province_3088       province_3094       province_3095       province_3097       province_3098       province_3100
+		province_3101       province_3105       province_3109       province_3118       province_3129       province_3132
+		province_3137       province_3139       province_3141       province_3142       province_3144       province_3147
+		province_3152       province_3156       province_3159       province_3160       province_3163       province_3164
+		province_3167       province_3169       province_3170       province_3171       province_3173       province_3174
+		province_3176       province_3194       province_3196       province_3199       province_3201       province_3205
+		province_3211       province_3215       province_3218       province_3221       province_3224       province_3225
+		province_3228       province_3229       province_3234       province_3235       province_3242       province_3243
+		province_3247       province_3249       province_3251       province_3252       province_3262       province_3263
+		province_3264       province_3265       province_3268       province_3269       province_3270       province_3274
+		province_3276       province_3278       province_3281       province_3282       province_3283       province_3287
+		province_3290       province_3291       province_3295       province_3298       province_3302       province_3303
+		province_3304       province_3305       province_3306       province_3310       province_3312       province_3316
+		province_3317       province_3318       province_3320       province_3332       province_3334       province_3335
+		province_3338       province_3340       province_3342       province_3343       province_3345       province_3346
+		province_3349       province_3350       province_3351       province_3352       province_3354       province_3355
+		province_3356       province_3358       province_3364       province_3365       province_3366       province_3367
+		province_3368       province_3369       province_3370       province_3376       province_3377       province_3380
+		province_3382       province_3383       province_3384       province_3386       province_3387       province_3388
+		province_3392       province_3396       province_3398       province_3399       province_3402       province_3406
+		province_3413       province_3416       province_3417       province_3419       province_3420       province_3421
+		province_3423       province_3429       province_3430       province_3435       province_3436       province_3437
+		province_3439       province_3443       province_3447       province_3453       province_3454       province_3457
+		province_3464       province_3476       province_3477       province_3480       province_3481       province_3482
+		province_3483       province_3484       province_3486       province_3490       province_3491       province_3492
+		province_3495       province_3496       province_3497       province_3500       province_3501       province_3505
+		province_3507       province_3512       province_3514       province_3515       province_3518       province_3523
+		province_3524       province_3525       province_3530       province_3535       province_3537       province_3541
+		province_3544       province_3550       province_3551       province_3555       province_3556       province_3565
+		province_3566       province_3567       province_3568       province_3572       province_3575       province_3579
+		province_3580       province_3581       province_3585       province_3587       province_3588       province_3592
+		province_3594       province_3595       province_3597       province_3599       province_3600       province_3604
+		province_3605       province_3609       province_3611       province_3624       province_3625       province_3626
+		province_3627       province_3630       province_3635       province_3636       province_3640       province_3641
+		province_3646       province_3648       province_3649       province_3651       province_3653       province_3656
+		province_3659       province_3660       province_3661       province_3666       province_3667       province_3672
+		province_3673       province_3674       province_3675       province_3677       province_3681       province_3682
+		province_3683       province_3684       province_3687       province_3688       province_3690       province_3692
+		province_3694       province_3696       province_3697       province_3699       province_3700       province_3701
+		province_3702       province_3703       province_3705       province_3707       province_3709       province_3711
+		province_3719       province_3722       province_3725       province_3727       province_3728       province_3729
+		province_3730       province_3731       province_3732       province_3736       province_3737       province_3742
+		province_3745       province_3746       province_3747       province_3748       province_3754       province_3756
+		province_3763       province_3764       province_3768       province_3770       province_3771       province_3776
+		province_3781       province_3782       province_3788       province_3791       province_3795       province_3798
+		province_3799       province_3800       province_3801       province_3806       province_3808       province_3809
+		province_3810       province_3811       province_3812       province_3814       province_3816       province_3818
+		province_3821       province_3822       province_3823       province_3824       province_3826       province_3829
+		province_3831       province_3834       province_3841       province_3842       province_3843       province_3847
+		province_3848       province_3850       province_3854       province_3856       province_3857       province_3858
+		province_3859       province_3861       province_3869       province_3873       province_3876       province_3877
+		province_3880       province_3885       province_3887       province_3891       province_3902       province_3907
+		province_3911       province_3912       province_3913       province_3916       province_3917       province_3918
+		province_3923       province_3924       province_3932       province_3939       province_3949       province_3951
+		province_3955       province_3956       province_3957       province_3964       province_3967       province_3970
+		province_3976       province_3981       province_3983       province_3986       province_3989       province_3996
+		province_4000       province_4002       province_4003       province_4014       province_4015       province_4016
+		province_4018       province_4023       province_4024       province_4028       province_4029       province_4035
+		province_4036       province_4045       province_4046       province_4047       province_4051       province_4052
+		province_4056       province_4057       province_4059       province_4070       province_4076       province_4081
+		province_4082       province_4084       province_4085       province_4088       province_4096       province_4099
+		province_4103       province_4104       province_4105       province_4106       province_4109       province_4112
+		province_4114       province_4118       province_4121       province_4122       province_4129       province_4130
+		province_4133       province_4139       province_4141       province_4143       province_4145       province_4150
+		province_4154       province_4156       province_4160       province_4161       province_4162       province_4163
+		province_4164       province_4169       province_4170       province_4171       province_4174       province_4175
+		province_4177       province_4182       province_4184       province_4187       province_4189       province_4190
+		province_4191       province_4192       province_4194       province_4200       province_4203       province_4215
+		province_4216       province_4219       province_4220       province_4221       province_4227       province_4230
+		province_4231       province_4233       province_4234       province_4238       province_4242       province_4243
+		province_4244       province_4246       province_4248       province_4249       province_4251       province_4252
+		province_4254       province_4255       province_4257       province_4258       province_4260       province_4268
+		province_4272       province_4275       province_4277       province_4281       province_4285       province_4286
+		province_4288       province_4290       province_4291       province_4293       province_4299       province_4301
+		province_4305       province_4308       province_4314       province_4315       province_4319       province_4321
+		province_4326       province_4331       province_4333       province_4334       province_4335       province_4338
+		province_4342       province_4343       province_4349       province_4350       province_4351       province_4352
+		province_4353       province_4355       province_4356       province_4357       province_4362       province_4367
+		province_4368       province_4369       province_4375       province_4384       province_4387       province_4394
+		province_4395       province_4397       province_4399       province_4404       province_4405       province_4408
+		province_4411       province_4416       province_4419       province_4420       province_4422       province_4423
+		province_4424       province_4425       province_4427       province_4431       province_4434       province_4435
+		province_4437       province_4438       province_4440       province_4442       province_4445       province_4448
+		province_4453       province_4458       province_4465       province_4468       province_4470       province_4471
+		province_4473       province_4477       province_4478       province_4482       province_4486       province_4487
+		province_4488       province_4491       province_4492       province_4493       province_4494       province_4499
+		province_4501       province_4505       province_4508       province_4511       province_4519       province_4520
+		province_4522       province_4529       province_4530       province_4531       province_4538       province_4540
+		province_4541       province_4544       province_4547       province_4553       province_4554       province_4561
+		province_4562       province_4570       province_4571       province_4572       province_4579       province_4582
+		province_4588       province_4591       province_4593       province_4595       province_4596       province_4597
+		province_4598       province_4599       province_4604       province_4610       province_4611       province_4614
+		province_4615       province_4619       province_4623       province_4624       province_4632       province_4636
+		province_4643       province_4645       province_4647       province_4648       province_4652       province_4655
+		province_4656       province_4662       province_4664       province_4665       province_4669       province_4680
+		province_4683       province_4685       province_4687       province_4688       province_4689       province_4691
+		province_4696       province_4697       province_4701       province_4705       province_4706       province_4709
+		province_4720       province_4724       province_4725       province_4734       province_4736       province_4737
+		province_4741       province_4743       province_4748       province_4751       province_4755       province_4758
+		province_4762       province_4770       province_4775       province_4778       province_4779       province_4784
+		province_4787       province_4788       province_4789       province_4793       province_4807       province_4808
+		province_4809       province_4812       province_4820       province_4825       province_4826       province_4835
+		province_4838       province_4842       province_4845       province_4846       province_4851       province_4855
+		province_4856       province_4858       province_4861       province_4862       province_4874       province_4877
+		province_4884       province_4893       province_4901       province_4905       province_4908       province_4912
+		province_4918       province_4922       province_4923       province_4929       province_4941       province_4942
+		province_4947       province_4948       province_4954       province_4961       province_4965       province_4968
+		province_4970       province_4973       province_4977       province_4986       province_4987       province_5002
+		province_5006       province_5016       province_5023       province_5028       province_5034       province_5036
+		province_5043       province_5056       province_5059       province_5060       province_5068       province_5071
+		province_5080       province_5094       province_5103       province_5109       province_5115       province_5118
+		province_5123       province_5146       province_5149       province_5192       province_5220       province_5283
+		province_5295       province_5299       province_5315       province_5327       province_5402       province_9205
+		testprovince1		province_4565		province_3155
+	}
 
 			starting_technology_level = 2
 			#include = "expl_western_europe"
@@ -13,18 +152,19 @@ countries = {
 			#include = "german_principality"
 			
 			discovered_regions = {
-				central_fire_island ocean_region northern_earthkingdom_region western_earthkingdom_region ba_sing_se_region northern_airtemple_region western_airtemple_region southern_earthkingdom_region earth_islands_region southern_airtemple_region eastern_airtemple_region central_earthkingdom_region omashu_region si_wong_desert_region north_pole_region south_pole_region
+				fire_mainland_region
+				fire_archipelago
 			}
 
 			government = {
 				type = monarchy
 				heir_selection = cognatic_primogeniture
-				ruler = FIR_sozin
+				ruler = hab_albrecht_ii_habsburg
 			}
 
-			country_rank = rank_kingdom
-			dynasty = royal_fire_dynasty
-			capital = caldera_city_1
+			country_rank = rank_duchy
+			dynasty = habsburg_dynasty
+			capital = province_3880
 		}
 	}
 }

@@ -1,0 +1,31 @@
+current_age = age_1_traditions
+
+countries = {
+	countries = {
+		FIR = {
+			own_control_core = {
+				testprovince1 caldera_province_1 province_3824 province_3829 province_3902 province_3964 province_3955 province_3880
+			}
+
+			starting_technology_level = 2
+			#include = "expl_western_europe"
+			#include = "catholic_monarchy_no_coast"
+			#include = "german_principality"
+			
+			discovered_regions = {
+				fire_mainland_region
+				fire_archipelago
+			}
+
+			government = {
+				type = monarchy
+				heir_selection = cognatic_primogeniture
+				ruler = hab_albrecht_ii_habsburg
+			}
+
+			country_rank = rank_duchy
+			dynasty = habsburg_dynasty
+			capital = province_3880
+		}
+	}
+}

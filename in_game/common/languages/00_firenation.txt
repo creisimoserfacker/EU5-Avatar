@@ -1,0 +1,22 @@
+﻿
+fire_language = {
+
+	color = map_firenation
+
+	family = fire_language_family
+
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini       
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini       
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+}

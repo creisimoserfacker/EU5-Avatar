@@ -1,8 +1,28 @@
  locations={
 
-	caldera_city_1 = {
-		agricultural_revolution = yes
-		trade = yes
+	testprovince1 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince2 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince3 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince4 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince5 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince6 = {
+		feudalism = yes
+		legalism = yes
 	}
 
 }

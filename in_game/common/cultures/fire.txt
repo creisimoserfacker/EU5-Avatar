@@ -1,0 +1,15 @@
+﻿
+fire_culture = {
+	language = fire_language
+	
+	color = map_firenation
+	
+	tags = { european_gfx }
+
+	opinions = {
+	}	
+	culture_groups = {
+		fire_culture_group
+	}
+}
+
