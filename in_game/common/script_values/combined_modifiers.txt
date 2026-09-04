@@ -1,0 +1,25 @@
+
+bender_percentage_modifier_script_value = {
+	owner = {
+		value = modifier:national_bender_percentage_modifier
+	}
+	add = {
+		value = modifier:local_bender_percentage_modifier
+	}
+
+}
+
+nonbender_bender_percentage_modifier_script_value = {
+	value = 1
+	subtract = {
+		THIS = {
+			value = modifier:local_bender_percentage_modifier
+		}
+	}
+	subtract = {
+		owner = {
+			value = modifier:national_bender_percentage_modifier
+		}
+	}
+
+}

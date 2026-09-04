@@ -1,0 +1,113 @@
+﻿
+can_extract_ice={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_herbs={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_poultry={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_cattle={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_wool_animal={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_grain={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_vegetables={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_ostrich_horses={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_komodo_rhinos={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_buffalo_yaks={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+local_nonbender_religion_movement_resistance_modifier = {
+	percent = yes
+	game_data = {
+		category = location
+	}
+}
+national_nonbender_religion_movement_resistance_modifier = {
+	percent = yes
+	game_data = {
+		category = country
+	}
+}
+global_nonbender_religion_movement_resistance_modifier = {
+	percent = yes
+	game_data = {
+		category = country
+	}
+}
+local_nonbender_religion_movement_growth_modifier = {
+	percent = yes
+	game_data = {
+		category = location
+	}
+}
+national_nonbender_religion_movement_growth_modifier = {
+	percent = yes
+	game_data = {
+		category = country
+	}
+}
+global_nonbender_religion_movement_growth_modifier = {
+	percent = yes
+	game_data = {
+		category = country
+	}
+}
+
+
+local_bender_percentage_modifier = {
+	percent = yes
+	game_data = {
+		category = location
+	}
+}
+national_bender_percentage_modifier = {
+	percent = yes
+	game_data = {
+		category = country
+	}
+}

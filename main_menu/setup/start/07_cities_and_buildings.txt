@@ -1,0 +1,15 @@
+locations = {
+	
+	#firenation
+	province_3880 = { rank = city 		town_setup = important_scandinavian_town }
+
+}
+
+building_manager = {
+
+
+	# firenation
+
+	castle 		= { tag = FIR level = 1 location = province_3880 }
+
+}

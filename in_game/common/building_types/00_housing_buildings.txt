@@ -1,0 +1,420 @@
+
+
+############# estate housings ##################
+
+slum_district = {
+	is_foreign = no
+	max_levels = estate_building_stackable_level
+	pop_type = peasants
+
+	estate = peasants_estate
+	
+	category = housing_category
+	
+	employment_size = 0.1
+	
+	rural_areas = no
+	rural_settlement = no
+	town = yes
+	city = yes
+	
+	country_potential = {
+		
+	}
+	
+	build_time = estate_build_time
+
+	destroyable_building = yes
+	
+	#possible_production_methods = {
+	#	estate_building_input
+	#}
+
+	#construction_demand = estate_construct_building
+
+	modifier = {
+		local_disease_resistance = -0.15
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.1
+		local_monthly_prosperity = -0.0005
+	}
+}
+
+noble_villa = {
+	is_foreign = no
+	max_levels = estate_building_stackable_level
+	pop_type = nobles
+	
+	category = estate_category
+	
+	employment_size = minor_noble_employment
+	
+	rural_settlement = yes
+	town = no
+	city = no
+	
+	country_potential = {
+		has_estate_privilege = estate_privilege:nobles_land_rights
+	}
+	
+	estate = nobles_estate
+	
+	build_time = estate_build_time
+
+	destroyable_building = yes
+	
+	possible_production_methods = {
+		estate_building_input
+	}
+
+	construction_demand = estate_construct_building
+
+	modifier = {
+		local_nobles_estate_power = 0.2
+		local_peasant_enfranchisment = -0.02
+	}
+}
+
+
+
+######## buildable housings ################
+
+primitive_tent_housings = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = tribesmen
+	
+	category = housing_category
+
+
+	construction_demand = primitive_tent_housings_construction
+
+	
+	employment_size = 0.010
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_tribes_estate_unrest = -0.01
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.040
+		local_monthly_prosperity = 0.0001
+	}
+
+}
+
+tent_housings = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = tribesmen
+	
+	category = housing_category
+
+
+	construction_demand = tent_housings_construction
+
+	
+	employment_size = 0.010
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_tribes_estate_unrest = -0.01
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.040
+		local_monthly_prosperity = 0.0001
+	}
+
+}
+
+tree_houses = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = tribesmen
+	
+	category = housing_category
+
+
+	construction_demand = tree_houses_construction
+
+	
+	employment_size = 0.010
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+
+	location_potential = {
+		OR = {
+			vegetation = woods
+			vegetation = forest
+			vegetation = jungle
+
+		}
+	}
+
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_tribes_estate_unrest = -0.01
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.040
+		local_monthly_prosperity = 0.0001
+	}
+
+}
+
+igloos = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = tribesmen
+	
+	category = housing_category
+
+	construction_demand = igloos_construction
+
+	
+	employment_size = 0.010
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+
+	location_potential = {
+		climate = arctic
+	}
+
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_tribes_estate_unrest = -0.01
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.040
+		local_monthly_prosperity = 0.0001
+	}
+
+}
+
+snow_houses = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = peasants
+	
+	category = housing_category
+
+	construction_demand = snow_houses_construction
+
+	
+	employment_size = 0.020
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+
+	location_potential = {
+		climate = arctic
+	}
+
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_peasants_estate_unrest = -0.02
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.060
+		local_monthly_prosperity = 0.0002
+	}
+
+}
+
+ice_houses = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = laborers
+	
+	category = housing_category
+
+	construction_demand = ice_houses_construction
+
+	
+	employment_size = 0.030
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+
+	location_potential = {
+		climate = arctic
+	}
+
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_peasants_estate_unrest = -0.02
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.070
+		local_monthly_prosperity = 0.0003
+	}
+
+}
+
+
+
+small_huts = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = peasants
+	
+	category = housing_category
+
+	construction_demand = small_huts_construction
+
+	
+	employment_size = 0.010
+	
+	rural_areas = yes
+	rural_settlement = yes
+	town = no
+	city = no
+	
+	destroyable_building = yes
+
+	modifier = {
+		local_peasants_estate_unrest = -0.01
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.050
+		local_monthly_prosperity = 0.0002
+	}
+
+	#obsolete = tent_housings
+}
+
+simple_housing_district = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = laborers
+	
+	category = housing_category
+
+	construction_demand = simple_housing_district_construction
+	
+	employment_size = 0.020
+	
+	rural_areas = no
+	rural_settlement = yes
+	town = yes
+	city = yes
+	
+	destroyable_building = yes
+	
+	modifier = {
+		local_peasants_estate_unrest = -0.02
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.060
+		local_monthly_prosperity = 0.0003
+	}
+
+	#obsolete = small_huts
+
+}
+
+average_housing_district = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = laborers
+	
+	category = housing_category
+
+	construction_demand = average_housing_district_construction
+
+	
+	employment_size = 0.030
+	
+	rural_areas = no
+	rural_settlement = yes
+	town = yes
+	city = yes
+	
+	destroyable_building = yes
+	
+	modifier = {
+		local_peasants_estate_unrest = -0.03
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.070
+		local_monthly_prosperity = 0.0004
+	}
+
+	#obsolete = simple_housing_district
+
+}
+
+wealthy_housing_district = {
+	is_foreign = no
+	max_levels = housing_max_level
+	pop_type = burghers
+	
+	category = housing_category
+
+	construction_demand = wealthy_housing_district_construction
+
+	
+	employment_size = 0.040
+	
+	rural_areas = no
+	rural_settlement = yes
+	town = yes
+	city = yes
+	
+	destroyable_building = yes
+	
+	modifier = {
+		local_burghers_estate_unrest = -0.04
+		local_peasants_estate_unrest = -0.03
+	}
+
+	raw_modifier = {
+		local_population_capacity = 0.080
+		local_monthly_prosperity = 0.0005
+	}
+
+	#obsolete = average_housing_district
+
+}
+

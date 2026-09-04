@@ -1,0 +1,21 @@
+﻿
+nonbender = { 
+	color = nonbender_color
+	group = nonbender_group
+	
+	
+	definition_modifier = {
+		
+	}
+	
+	opinions = {
+		
+	}
+
+	unique_names = {
+		
+	}	
+
+	tags = { christian_gfx }
+}
+

@@ -2,13 +2,14 @@
 	color = firebender_color
 	group = fire_group
 	
-	
+
 	definition_modifier = {
-		
+		national_bender_percentage_modifier = 0.2
 	}
 	
 	opinions = {
-		
+		sun_warrior = positive
+		nonbender = positive
 	}
 
 	unique_names = {
@@ -38,23 +39,4 @@ sun_warrior = {
 	tags = { christian_gfx }
 }
 
-nonbender = { 
-	color = nonbender_color
-	group = nonbender_group
-	
-	
-	definition_modifier = {
-		
-	}
-	
-	opinions = {
-		
-	}
-
-	unique_names = {
-		
-	}	
-
-	tags = { christian_gfx }
-}
 

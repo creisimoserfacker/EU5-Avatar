@@ -1,0 +1,45 @@
+
+bender_school = {
+	audio_tier = 2
+	is_special = yes
+	max_levels = 2
+	pop_type = clergy
+	
+	category = religious_category
+	
+	can_close = yes
+
+	conversion_religion = firebender
+	
+	employment_size = religious_building_employment
+	
+	rural_settlement = yes
+	town = yes
+	city = yes
+	megalopolis = yes
+	
+	country_potential = {
+		religion ?= religion:firebender
+	}
+	allow = {
+		owner ?= { this = scope:actor }
+		is_city = yes
+	}
+
+	#price = lutheran_preachers_building
+	#destroy_price = remove_lutheran_preacher
+	
+	
+	#possible_production_methods = {
+	#	lutheran_preacher_maintenance
+	#}
+
+	construction_demand = estate_construct_building
+	
+	build_time = generic_event_building
+	
+	modifier = {
+		local_pop_conversion_speed = 0.01
+		local_bender_percentage_modifier = 0.05
+	}
+}

@@ -1,0 +1,30 @@
+﻿can_extract_ice = {
+	positive = "gfx/interface/icons/modifier_types/ice_positive.dds" 
+}
+can_extract_herbs = {
+	positive = "gfx/interface/icons/modifier_types/herbs_positive.dds" 
+}
+can_extract_poultry = {
+	positive = "gfx/interface/icons/modifier_types/poultry_positive.dds" 
+}
+can_extract_cattle = {
+	positive = "gfx/interface/icons/modifier_types/cattle_positive.dds" 
+}
+can_extract_wool_animal = {
+	positive = "gfx/interface/icons/modifier_types/wool_animal_positive.dds" 
+}
+can_extract_grain = {
+	positive = "gfx/interface/icons/modifier_types/grain_positive.dds" 
+}
+can_extract_vegetables = {
+	positive = "gfx/interface/icons/modifier_types/vegetables_positive.dds" 
+}
+can_extract_ostrich_horses = {
+	positive = "gfx/interface/icons/modifier_types/ostrich_horses_positive.dds" 
+}
+can_extract_komodo_rhinos = {
+	positive = "gfx/interface/icons/modifier_types/komodo_rhinos_positive.dds" 
+}
+can_extract_buffalo_yaks = {
+	positive = "gfx/interface/icons/modifier_types/buffalo_yaks_positive.dds" 
+}

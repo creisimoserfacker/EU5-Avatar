@@ -1,0 +1,14 @@
+﻿
+
+TRY_INJECT:country_base_values = {
+	
+	can_extract_ice = yes
+	can_extract_herbs = yes
+	can_extract_poultry = yes
+	can_extract_cattle = yes
+	can_extract_wool_animal = yes
+
+	#global_pop_conversion_speed = 0.01
+ 
+}
+

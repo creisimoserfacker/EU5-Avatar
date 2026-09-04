@@ -1,0 +1,77 @@
+﻿nonbender_religion_movement = {
+	religion = nonbender
+
+	
+	environmental_infection = {
+		value = 0.01
+	}
+
+	r0 = {
+		if = {
+			limit = { 
+
+				"religion_percentage(religion:nonbender)" < nonbender_bender_percentage_modifier_script_value
+			}
+			value = { 0.01 0.030 }
+		}
+		else = {
+			value = { 0.0 0.0 }
+		}
+	}
+
+	calc_interval_days = 1
+
+	#required_religions = {
+	#	nonbender
+	#}
+
+	development = neutral
+	literacy = neutral
+	local_control = neutral
+	pop_satisfaction = neutral
+
+	on_calc_effect = {
+		
+	}
+
+	specific_pop_type_effect = { pop_type = burghers  multiplier = 0.8 }
+	specific_pop_type_effect = { pop_type = peasants  multiplier = 3 }
+	specific_pop_type_effect = { pop_type = laborers  multiplier = 2 }
+	specific_pop_type_effect = { pop_type = nobles    multiplier = 0.2 }
+	specific_pop_type_effect = { pop_type = clergy    multiplier = 0.1 }
+	specific_pop_type_effect = { pop_type = slaves    multiplier = 4 }
+
+	location_stagnation_chance = {
+		if = {
+			limit = {
+				"religion_percentage(religion:nonbender)" > 0.1
+			}
+			value = 1
+		}
+	}
+
+	map_color = {
+		if = {
+			limit = {
+				"religion_percentage(religion:nonbender)" = 0
+			}
+			value = define:NMapColors|MAP_COLOR_NULL
+		}
+		else_if = {
+			limit = {
+				dominant_religion = religion:nonbender
+			}
+			value = define:NMapColors|MAP_COLOR_HIGH
+		}
+		else_if = {
+			limit = {
+				"religion_percentage(religion:nonbender)" > 0.05
+			}
+			value = define:NMapColors|MAP_COLOR_MID
+		}
+		else = {
+			value = define:NMapColors|MAP_COLOR_LOW
+		}
+	}
+
+}

@@ -15,3 +15,9 @@ NJominiMap = {
 	WORLD_EXTENTS_Z = 8192
 	WATERLEVEL = @[ world_height * water_level_percentage ]
 }
+
+NPop = {
+
+	DISPLAY_SIZE = 100
+
+}

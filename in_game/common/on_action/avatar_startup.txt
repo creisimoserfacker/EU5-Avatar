@@ -1,0 +1,35 @@
+
+on_game_start = {
+	on_actions = { on_nonbender_population_game_start }
+}
+
+on_nonbender_population_game_start = {
+	effect = {
+		random_location_in_the_world = {
+			spawn_movement = {
+				movement_definition = movement_definition:nonbender_religion_movement
+				supporters = {
+					value = population
+					multiply = "religion_percentage(religion:nonbender)"
+				}
+			}
+		}
+		every_location_in_the_world = {
+			limit = {
+				is_land = yes
+			}
+			save_scope_as = new_target_location
+			religion:nonbender = {
+				random_movement_in_religion = {
+					spread_to_location = {
+						location = scope:new_target_location
+						supporters = {
+							value = scope:new_target_location.population
+							multiply = "scope:new_target_location.religion_percentage(religion:nonbender)"
+						}
+					}
+				}
+			}
+		}
+	}
+}

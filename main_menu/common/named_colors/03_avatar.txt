@@ -16,4 +16,5 @@ colors = {
 	goods_flour = rgb { 10 10 10 }
 	goods_pastry = rgb { 169 129 20 }
 	goods_ice = rgb { 10 10 160 }
+	goods_vegetables = rgb { 10 130 40 }
 } 
